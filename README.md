@@ -25,10 +25,10 @@ In the coming months I will definitely do a larger project myself. You can follo
 
 | created: | name:                       | type:                 | stack:                           |
 |----------|-----------------------------|-----------------------|----------------------------------|
-| 16.01.21    | [the-facebook](https://github.com/gregwell/the-facebook)                | analysis              | react, node.js, mongodb, express |
+| 16.01.21    | [the-facebook](https://github.com/gregwell/the-facebook)                | detailed analysis              | react, node.js, mongodb, express |
 | 08.02.21     | [react](https://github.com/gregwell/university-notes/blob/main/english/javascript/react.md)      | notes                 | react                            |
 | 10.02.21    | [javascript](https://github.com/gregwell/university-notes/blob/main/english/javascript/javascript.md) | notes                 | javascript             |
-| 23.02.21    | [react-sweet-state-todo-app](https://github.com/gregwell/react-sweet-state-todo-app)        | analysis, development | react                            |
+| 23.02.21    | [react-sweet-state-todo-app](https://github.com/gregwell/react-sweet-state-todo-app)        | detailed analysis, development | react                            |
 
 <!--
 **gregwell/gregwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
