@@ -8,6 +8,27 @@ At the end of the last year I was thinking profusely where I see myself in 5 yea
 
 In the coming months I will definitely do a larger project myself. You can follow my personal development on this page. Also, I need to take part in a 4-week apprenticeships this summer (requirement from my university), but I'm ready to take part in a 3-month internship, which would be a more preferred option. (July, August, September '21). Feel free to contact me.
 
+**Latest university projects:**
+
+| created: | name:                                | type:       | stack:                           |
+|----------|--------------------------------------|-------------|----------------------------------|
+| 13.10.20 | [fem-simulations](https://github.com/gregwell/fem-simulations)                      | development | c++                              |
+| 22.10.20 | [java-algorithms](https://github.com/gregwell/java-algorithms)                      | development | java                             |
+| 22.10.20 | [java](https://github.com/gregwell/university-notes/blob/main/polish/java/java.md)                                 | notes       | java                             |
+| 07.12.20 | [car-showroom-management](https://github.com/gregwell/car-showroom-management)              | development | java, javaFX, css                             |
+| 07.12.20 | [javafx-notes](https://github.com/gregwell/university-notes/blob/main/english/java/javafx-notes.md)                         | notes       | javaFX                             |
+| 13.01.21 | [activity-hub](https://github.com/gregwell/activity-hub)                         | development | node.js, mongodb, express |
+| 01.02.21 | [programowanie-rownolegle (in polish)](https://github.com/gregwell/university-notes/blob/main/polish/programowanie-rownolegle.md) | notes       | c, java                          |
+
+
+**Latest personal development projects:**
+
+| created: | name:                       | type:                 | stack:                           |
+|----------|-----------------------------|-----------------------|----------------------------------|
+| 16.01.21    | [the-facebook](https://github.com/gregwell/the-facebook)                | analysis              | react, node.js, mongodb, express |
+| 08.02.21     | [react](https://github.com/gregwell/university-notes/blob/main/english/javascript/react.md)      | notes                 | react                            |
+| 10.02.21    | [javascript](https://github.com/gregwell/university-notes/blob/main/english/javascript/javascript.md) | notes                 | javascript             |
+| 23.02.21    | [react-sweet-state-todo-app](https://github.com/gregwell/react-sweet-state-todo-app)        | analysis, development | react                            |
 
 <!--
 **gregwell/gregwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
