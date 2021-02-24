@@ -13,10 +13,8 @@ In the coming months I will definitely do a larger project myself. You can follo
 | created: | name:                                | type:       | stack:                           |
 |----------|--------------------------------------|-------------|----------------------------------|
 | 13.10.20 | [fem-simulations](https://github.com/gregwell/fem-simulations)                      | development | c++                              |
-| 22.10.20 | [java-algorithms](https://github.com/gregwell/java-algorithms)                      | development | java                             |
-| 22.10.20 | [java](https://github.com/gregwell/university-notes/blob/main/polish/java/java.md)                                 | notes       | java                             |
-| 07.12.20 | [car-showroom-management](https://github.com/gregwell/car-showroom-management)              | development | java, javaFX, css                             |
-| 07.12.20 | [javafx-notes](https://github.com/gregwell/university-notes/blob/main/english/java/javafx-notes.md)                         | notes       | javaFX                             |
+| 22.10.20 | [java-algorithms](https://github.com/gregwell/java-algorithms)                      | development, notes | java                             |
+| 07.12.20 | [car-showroom-management](https://github.com/gregwell/car-showroom-management)              | development, notes | java, javaFX, css                             |
 | 13.01.21 | [activity-hub](https://github.com/gregwell/activity-hub)                         | development | node.js, mongodb, express |
 | 01.02.21 | [programowanie-rownolegle (in polish)](https://github.com/gregwell/university-notes/blob/main/polish/programowanie-rownolegle.md) | notes       | c, java                          |
 
