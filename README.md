@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi 👋
 
-**TLDR: Currently I'm making my best effort to start thinking in React. I'm looking for a summer internship.**
+**TLDR: I'm making my best effort to start thinking in React. I'm looking for a summer internship.**
 
 I am a final year student of Applied Computer Science at AGH University of Technology in Cracow, Poland. During these studies I've attended to some typical engineering courses like [algorithms and data structures](https://github.com/gregwell/algorithms-and-data-structures), [numerical methods](https://github.com/gregwell/numerical-methods/tree/master/NumericalMethods3/NumericalMethods3) and also spend some time with the real *applied* computer science like the [FEM course](https://github.com/gregwell/fem-simulations). The programming languages that I have been using were C++, Java, C. Apart from studies, from time to time I work as a graphic designer: creating logos, leaflets business cards, web layouts or bottle labels.
 
