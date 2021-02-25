@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi there 👋
 
 **TLDR: I'm making my best effort to start thinking in React. I'm looking for a summer internship.**
 
