@@ -23,8 +23,8 @@ Also, I need to take part in a 4-week apprenticeships this summer (requirement f
 
 | created: | name:                       | type:                 | stack:                           |
 |----------|-----------------------------|-----------------------|----------------------------------|
-| 16.01.21    | [the-facebook](https://github.com/gregwell/the-facebook)                | detailed analysis              | react, node.js, mongodb, express |
-| 08.02.21     | [react](https://github.com/gregwell/university-notes/blob/main/english/javascript/react.md)      | notes                 | react                            |
+| 16.01.21    | [the-facebook](https://github.com/gregwell/the-facebook)                | detailed analysis              | react, redux, node.js, mongodb, express |
+| 08.02.21     | [react](https://github.com/gregwell/university-notes/blob/main/english/javascript/react.md)      | notes                 | react, redux                            |
 | 10.02.21    | [javascript](https://github.com/gregwell/university-notes/blob/main/english/javascript/javascript.md) | notes                 | javascript             |
 | 23.02.21    | [react-sweet-state-todo-app](https://github.com/gregwell/react-sweet-state-todo-app)        | detailed analysis, development | react                            |
 
