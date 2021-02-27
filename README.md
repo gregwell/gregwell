@@ -6,27 +6,27 @@ I am a final year student of Applied Computer Science at AGH University of Techn
 
 At the end of the last year I was thinking profusely where I see myself in 5 years. Finally, in mid-January I understood that my place on earth is somewhere between creating design and programming. Wandering between writing 'heavy' cpp files calculating the heat flow and reading ui/ux design case studies gave me the idea to enter the world of front-end. The first step was the decision to write a school project of [a RESTful API](https://github.com/gregwell/activity-hub) in Javascript (Node.js). To know how to start I followed line by line the code of a huge full-stack project of a social media app. The HTTP request-response data flow excited me very much, however, I knew that I want to combine it with creating beautiful things.. this is when React came to play. I rewritten the entire application and [analyzed every single file and the logic behind](https://github.com/gregwell/the-facebook), but along the way I had to go back to the basics of JavaScript. I've created some notes on [Javascript](https://github.com/gregwell/university-notes/blob/main/english/javascript/javascript.md) & [React](https://github.com/gregwell/university-notes/blob/main/english/javascript/react.md) (and Redux) in general. So far, I' ve gathered some theoretical knowledge and will write a bigger project on my own in the coming weeks. You can follow my React journey on this page, as I like to make things transparent.
 
-I'm looking for a challenging React student internship! I can work full-time: July, August, September '21. Feel free to contact me!
+I'm looking for a challenging React student internship! I can work full-time: July, August, September '21. Feel free to contact me! 💬
 
 **Latest university projects:**
 
 | created: | name:                                | type:       | stack:                           |
 |----------|--------------------------------------|-------------|----------------------------------|
-| 13.10.20 | **[fem-simulations](https://github.com/gregwell/fem-simulations)**                      | development | c++                              |
-| 22.10.20 | [java-algorithms](https://github.com/gregwell/java-algorithms)                      | development, notes | java, JUnit                             |
-| 07.12.20 | **[car-showroom-management](https://github.com/gregwell/car-showroom-management)**              | development, notes | java, javaFX, css                             |
-| 13.01.21 | **[activity-hub](https://github.com/gregwell/activity-hub)**                         | development | node.js, mongodb, express, morgan, jsonwebtoken |
-| 01.02.21 | [programowanie-rownolegle (in polish)](https://github.com/gregwell/university-notes/blob/main/polish/programowanie-rownolegle.md) | notes       | c, java                          |
+| 13.10.20 | **[fem-simulations](https://github.com/gregwell/fem-simulations)**                      | development | C++                              |
+| 22.10.20 | [java-algorithms](https://github.com/gregwell/java-algorithms)                      | development, notes | Java, JUnit                             |
+| 07.12.20 | **[car-showroom-management](https://github.com/gregwell/car-showroom-management)**              | development, notes | Java, JavaFX, CSS                             |
+| 13.01.21 | **[activity-hub](https://github.com/gregwell/activity-hub)**                         | development | Node.js, Mongodb, Express, Morgan, JWT auth |
+| 01.02.21 | [programowanie-rownolegle (in polish)](https://github.com/gregwell/university-notes/blob/main/polish/programowanie-rownolegle.md) | notes       | C, Java                          |
 
 
 **Latest personal development projects:**
 
 | created: | name:                       | type:                 | stack:                           |
 |----------|-----------------------------|-----------------------|----------------------------------|
-| 16.01.21    | **[the-facebook](https://github.com/gregwell/the-facebook)**                | detailed analysis              | react.js, redux, router, material-ui, node.js, mongodb, express |
-| 08.02.21     | [react](https://github.com/gregwell/university-notes/blob/main/english/javascript/react.md)      | notes                 | react.js, redux.js                            |
-| 10.02.21    | [javascript](https://github.com/gregwell/university-notes/blob/main/english/javascript/javascript.md) | notes                 | javascript             |
-| 23.02.21    | [react-sweet-state-todo-app](https://github.com/gregwell/react-sweet-state-todo-app)        | detailed analysis, development | react.js, ant-design                            |
+| 16.01.21    | **[the-facebook](https://github.com/gregwell/the-facebook)**                | detailed analysis              | React, Redux, Router, Material-ui, Node.js, MongoDB, Express, JWT auth |
+| 08.02.21     | [react](https://github.com/gregwell/university-notes/blob/main/english/javascript/react.md)      | notes                 | React, Redux                           |
+| 10.02.21    | [javascript](https://github.com/gregwell/university-notes/blob/main/english/javascript/javascript.md) | notes                 | Javascript             |
+| 23.02.21    | [react-sweet-state-todo-app](https://github.com/gregwell/react-sweet-state-todo-app)        | detailed analysis, development | React, Ant-design                            |
 
 <!--
 **gregwell/gregwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
