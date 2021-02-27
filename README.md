@@ -15,7 +15,7 @@ I'm looking for a challenging React student internship! I can work full-time: Ju
 | 13.10.20 | **[fem-simulations](https://github.com/gregwell/fem-simulations)**                      | development | C++                              |
 | 22.10.20 | [java-algorithms](https://github.com/gregwell/java-algorithms)                      | development, notes | Java, JUnit                             |
 | 07.12.20 | **[car-showroom-management](https://github.com/gregwell/car-showroom-management)**              | development, notes | Java, JavaFX, CSS                             |
-| 13.01.21 | **[activity-hub](https://github.com/gregwell/activity-hub)**                         | development | Node.js, Mongodb, Express, Morgan, JWT auth |
+| 13.01.21 | **[activity-hub-rest-api](https://github.com/gregwell/activity-hub-rest-api)**                         | development | Node.js, Mongodb, Express, Morgan, JWT auth |
 | 01.02.21 | [programowanie-rownolegle (in polish)](https://github.com/gregwell/university-notes/blob/main/polish/programowanie-rownolegle.md) | notes       | C, Java                          |
 
 
