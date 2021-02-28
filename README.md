@@ -26,7 +26,7 @@ I'm looking for a challenging React student internship! I can work full-time: Ju
 | 16.01.21    | **[the-facebook](https://github.com/gregwell/the-facebook)**                | detailed analysis              | React, Redux, Router, Material-ui, Node.js, MongoDB, Express, JWT auth |
 | 08.02.21     | [react](https://github.com/gregwell/university-notes/blob/main/english/javascript/react.md)      | notes                 | React, Redux                           |
 | 10.02.21    | [javascript](https://github.com/gregwell/university-notes/blob/main/english/javascript/javascript.md) | notes                 | Javascript             |
-| 23.02.21    | [react-sweet-state-todo-app](https://github.com/gregwell/react-sweet-state-todo-app)        | detailed analysis, development | React                           |
+| 23.02.21    | **[react-sweet-state-todo-app](https://github.com/gregwell/react-sweet-state-todo-app)**        | detailed analysis, development | React                           |
 
 <!--
 **gregwell/gregwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
