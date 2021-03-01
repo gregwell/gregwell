@@ -10,6 +10,7 @@ At the end of the last year I was thinking profusely where I see myself in 5 yea
 
 I'm looking for a challenging React student internship! I can work full-time: July, August, September '21. Feel free to contact me! 💬
 
+<div class="divtable">
 <p><strong>Latest university projects:</strong></p>
 <table>
    <thead>
@@ -90,7 +91,7 @@ I'm looking for a challenging React student internship! I can work full-time: Ju
       </tr>
    </tbody>
 </table>
-
+</div>
 
 <!--
 **gregwell/gregwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
