@@ -1,3 +1,3 @@
-table.css3 tbody tr + tr td:nth-child(2) {
+table.divtable tbody tr + tr td:nth-child(2) {
     background-color: #deffce;
 }
