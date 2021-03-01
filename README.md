@@ -8,22 +8,25 @@ At the end of the last year I was thinking profusely where I see myself in 5 yea
 
 I'm looking for a challenging React student internship! I can work full-time: July, August, September '21 or any month part-time. Feel free to contact me! 💬
 
+
+
 **Latest university projects:**
 
-| created: | name:                                | type:       | stack:                           |
+ created: | name:                                | type:       | stack:                           |
 |----------|--------------------------------------|-------------|----------------------------------|
-| 13.10.20 | **[fem-simulations](https://github.com/gregwell/fem-simulations)**                      | development | C++                              |
+| 13.10.20 | **[fem-simulations](https://github.com/gregwell/fem-simulations)**      📌                | development | C++                              |
 | 22.10.20 | [java-algorithms](https://github.com/gregwell/java-algorithms)                      | development, notes | Java, JUnit                             |
-| 07.12.20 | **[car-showroom-management](https://github.com/gregwell/car-showroom-management)**              | development, notes | Java, JavaFX, CSS                             |
-| 13.01.21 | **[activity-hub-rest-api](https://github.com/gregwell/activity-hub-rest-api)**                         | development | Node.js, Mongodb, Express, Morgan, JWT auth |
+| 07.12.20 | **[car-showroom-management](https://github.com/gregwell/car-showroom-management)**   📌           | development, notes | Java, JavaFX, CSS                             |
+| 13.01.21 | **[activity-hub-rest-api](https://github.com/gregwell/activity-hub-rest-api)**        📌                 | development | Node.js, Mongodb, Express, Morgan, JWT auth |
 | 01.02.21 | [programowanie-rownolegle (in polish)](https://github.com/gregwell/university-notes/blob/main/polish/programowanie-rownolegle.md) | notes       | C, Java                          |
 
 
 **Latest personal development projects:**
 
-| created: | name:                       | type:                 | stack:                           |
-|----------|-----------------------------|-----------------------|----------------------------------|
-| 16.01.21    | **[the-facebook](https://github.com/gregwell/the-facebook)**                | detailed analysis              | React, Redux, Router, Material-ui, Node.js, MongoDB, Express, JWT auth |
+ created: | name:                                | type:       | stack:                           |
+|----------|--------------------------------------|-------------|----------------------------------|
+| 16.01.21    | **[the-facebook](https://github.com/gregwell/the-facebook)**   📌             | detailed analysis              | React, Redux, Router, Material-ui, Node.js, MongoDB, Express, JWT auth |
 | 08.02.21     | [react](https://github.com/gregwell/university-notes/blob/main/english/javascript/react.md)      | notes                 | React, Redux                           |
 | 10.02.21    | [javascript](https://github.com/gregwell/university-notes/blob/main/english/javascript/javascript.md) | notes                 | Javascript             |
-| 23.02.21    | **[react-sweet-state-todo-app](https://github.com/gregwell/react-sweet-state-todo-app)**        | detailed analysis, UI design, development | React, react-sweet-state, Material-ui     
+| 23.02.21    | **[react-sweet-state-todo-app](https://github.com/gregwell/react-sweet-state-todo-app)**  📌      | detailed analysis, UI design, development | React, react-sweet-state, Material-ui     
+
