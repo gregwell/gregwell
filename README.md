@@ -8,7 +8,11 @@ At the end of the last year I was thinking profusely where I see myself in 5 yea
 
 I'm looking for a challenging full-stack / front-end (React.js) student internship! I can work full-time: July, August, September '21 or any month part-time. Feel free to contact me! 💬
 
+You can see **how I work** below:
 
+- 📌: important project
+- 👋: I'm currently working on
+- 😎: I'm currently focusing the most on
 
 **Latest university projects:**
 
@@ -26,7 +30,7 @@ I'm looking for a challenging full-stack / front-end (React.js) student internsh
  created: | name:                                | type:       | stack:                           |
 |----------|--------------------------------------|-------------|----------------------------------|
 | 16.01.21    | 📌 **[the-facebook](https://github.com/gregwell/the-facebook)**                | detailed analysis              | React, Redux, React Router, Material-ui, Node.js, MongoDB, Express, JWT auth |
-| 08.02.21     | [react](https://github.com/gregwell/university-notes/blob/main/english/javascript/react.md)      | notes                 | React, Redux, React Router, react-sweet-state                           |
-| 10.02.21    | [javascript](https://github.com/gregwell/university-notes/blob/main/english/javascript/javascript.md) | notes                 | Javascript             |
-| 23.02.21    | 📌 **[react-sweet-state-todo-app](https://github.com/gregwell/react-sweet-state-todo-app)**        | detailed analysis, UI design, development | React, react-sweet-state, Material-ui     
+| 08.02.21     |👋 [react](https://github.com/gregwell/university-notes/blob/main/english/javascript/react.md)      | notes                 | React, Redux, React Router, react-sweet-state                           |
+| 10.02.21    |👋 [javascript](https://github.com/gregwell/university-notes/blob/main/english/javascript/javascript.md) | notes                 | Javascript             |
+| 23.02.21    | 📌😎 **[react-sweet-state-todo-app](https://github.com/gregwell/react-sweet-state-todo-app)**        | detailed analysis, UI design, development | React, react-sweet-state, Material-ui     
 
