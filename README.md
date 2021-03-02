@@ -21,7 +21,7 @@ You can see **how I work** below:
 | 13.10.20 | 📌 **[fem-simulations](https://github.com/gregwell/fem-simulations)**                      | development | C++                              |
 | 22.10.20 | [java-algorithms](https://github.com/gregwell/java-algorithms)                      | development, notes | Java, JUnit                             |
 | 07.12.20 | 📌 **[car-showroom-management](https://github.com/gregwell/car-showroom-management)**              | development, notes | Java, JavaFX, CSS                             |
-| 13.01.21 | 📌 **[activity-hub-rest-api](https://github.com/gregwell/activity-hub-rest-api)**                         | development | Node.js, Mongodb, Express, Morgan, JWT auth |
+| 13.01.21 | 📌 **[activity-hub-rest-api](https://github.com/gregwell/activity-hub-rest-api)**                         | development | JS: Node.js, Mongodb, Express, Morgan, JWT auth |
 | 01.02.21 | [parallel programming (in Polish)](https://github.com/gregwell/university-notes/blob/main/polish/programowanie-rownolegle.md) | notes       | C (OpenMP, OpenMPI) , Java (ExecutorService)                         |
 
 
@@ -29,8 +29,8 @@ You can see **how I work** below:
 
  created: | name:                                | type:       | stack:                           |
 |----------|--------------------------------------|-------------|----------------------------------|
-| 16.01.21    | 📌 **[the-facebook](https://github.com/gregwell/the-facebook)**                | detailed analysis              | React, Redux, React Router, Material-ui, Node.js, MongoDB, Express, JWT auth |
-| 08.02.21     |👋 [react](https://github.com/gregwell/university-notes/blob/main/english/javascript/react.md)      | notes                 | React, Redux, React Router, react-sweet-state                           |
-| 10.02.21    |👋 [javascript](https://github.com/gregwell/university-notes/blob/main/english/javascript/javascript.md) | notes                 | Javascript             |
-| 23.02.21    | 📌😎 **[react-sweet-state-todo-app](https://github.com/gregwell/react-sweet-state-todo-app)**        | detailed analysis, UI design, development | React, react-sweet-state, Material-ui     
+| 16.01.21    | 📌 **[the-facebook](https://github.com/gregwell/the-facebook)**                | detailed analysis              | JS: React, Redux, React Router, Material-ui, Node.js, MongoDB, Express, JWT auth |
+| 08.02.21     |👋 [react](https://github.com/gregwell/university-notes/blob/main/english/javascript/react.md)      | notes                 | JS: React, Redux, React Router, react-sweet-state                           |
+| 10.02.21    |👋 [javascript](https://github.com/gregwell/university-notes/blob/main/english/javascript/javascript.md) | notes                 | JS             |
+| 23.02.21    | 📌😎 **[react-sweet-state-todo-app](https://github.com/gregwell/react-sweet-state-todo-app)**        | detailed analysis, UI design, development | JS: React, react-sweet-state, Material-ui     
 
