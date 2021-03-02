@@ -22,7 +22,7 @@ You can see **how I work** below:
 | 22.10.20 | [java-algorithms](https://github.com/gregwell/java-algorithms)                      | development, notes | Java, JUnit                             |
 | 07.12.20 | 📌 **[car-showroom-management](https://github.com/gregwell/car-showroom-management)**              | development, notes | Java, JavaFX, CSS                             |
 | 13.01.21 | 📌 **[activity-hub-rest-api](https://github.com/gregwell/activity-hub-rest-api)**                         | development | Node.js, Mongodb, Express, Morgan, JWT auth |
-| 01.02.21 | [programowanie-rownolegle (in polish)](https://github.com/gregwell/university-notes/blob/main/polish/programowanie-rownolegle.md) | notes       | C, Java                          |
+| 01.02.21 | [parallel programming (in Polish)](https://github.com/gregwell/university-notes/blob/main/polish/programowanie-rownolegle.md) | notes       | C (OpenMP, OpenMPI) , Java (ExecutorService)                         |
 
 
 **Latest personal development projects:**
