@@ -12,7 +12,7 @@ You can see **how I work** below:
 
 - 📌: important project
 - 👋: I'm currently working on
-- 😎: I'm currently focusing the most on
+- 😎: I'm currently focusing om the most
 
 **Latest university projects:**
 
