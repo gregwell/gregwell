@@ -1,14 +1,11 @@
-### Hi there 👋
+### Hi 👋
 
-**TLDR: I'm making my best effort to start thinking in web-dev style. Looking for a summer internship! 👀**
+I'm looking for a challenging full-stack / frontend (JavaScript, React.js) student internship!
 
-I am a final year student of Applied Computer Science at AGH University of Science and Technology in Cracow, Poland. I've attended typical engineering courses such as [algorithms and data structures](https://github.com/gregwell/algorithms-and-data-structures) or [numerical methods](https://github.com/gregwell/numerical-methods) and also spent some time on really *applied* computer science like the [FEM course](https://github.com/gregwell/fem-simulations). The programming languages I have used are mainly C++, Java, C, but I have also written programs in [x86 Assembly](https://github.com/gregwell/x86-assembly), Python, Bash and since this year also in JavaScript. In high school I had a short episode with SQL and relational databases (MySQL) and web development based on HTML, CSS. I also work as a graphic designer, designing logos, flyers, business cards, billboards, website layouts or even bottle labels for various Polish companies.
+Read my story: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) linkedin bio](https://www.linkedin.com/in/grzegorzstudzinski/)
 
-I enetered the world of web development this year because it allows me to combine my design thinking and programming skills. I started learning JavaScript in mid-January from backend (Node.js) and then switched to frontend (React) as **creating *visual* things that make delightful user experience seems to give me the greatest satisfaction.** Since then, I've been working almost every day to develop my JavaScript skills to the highest level so that I can get into this business as quickly as possible and make real clients happy with my work.
 
-I'm looking for a challenging JS full-stack / front-end (React.js) student internship! I can work full-time July, August, September '21 or any month part-time. I'm open to talk, don't hesistate to contact me! [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/grzegorzstudzinski/)
-
-You can see **how I work** below:
+See how I work:
 
 - 📌: important project
 - 👋: I'm currently working on
@@ -24,6 +21,10 @@ You can see **how I work** below:
 | 13.01.21 | 📌 **[activity-hub-rest-api](https://github.com/gregwell/activity-hub-rest-api)**                         | development | Node.js, Mongodb, Express, Morgan, JWT auth |
 | 01.02.21 | [parallel programming (in Polish)](https://github.com/gregwell/university-notes/blob/main/polish/programowanie-rownolegle.md) | notes       | C (OpenMP, OpenMPI) , Java (ExecutorService)                         |
 
+Other projects: [algorithms-and-data-structures](https://github.com/gregwell/algorithms-and-data-structures), [computer-architectures](https://github.com/gregwell/x86-assembly), [numerical-methods](https://github.com/gregwell/numerical-methods), [databases](https://github.com/gregwell/db2020)
+
+All my notes are available at: [university-notes](https://guthub.com/gregwell/university-notes)
+
 
 **Latest personal development projects:**
 
@@ -33,4 +34,3 @@ You can see **how I work** below:
 | 08.02.21     |👋 [react](https://github.com/gregwell/university-notes/blob/main/english/javascript/react.md)      | notes                 | React, Redux, React Router, react-sweet-state                           |
 | 10.02.21    |👋 [javascript](https://github.com/gregwell/university-notes/blob/main/english/javascript/javascript.md) | notes                 | JavaScript             |
 | 23.02.21    | 📌😎 **[react-sweet-state-todo-app](https://github.com/gregwell/react-sweet-state-todo-app)**        | detailed analysis, UI design, development | React, react-sweet-state, HTML, CSS, Material-ui     
-
