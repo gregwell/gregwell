@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm looking for a challenging full-stack / frontend (JavaScript, React.js) student internship!
+I'm making my best effort to start thinking in JavaScript. Looking for a challenging full-stack / frontend (React.js) student internship!
 
 Read my story: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) linkedin bio](https://www.linkedin.com/in/grzegorzstudzinski/)
 
