@@ -1,9 +1,8 @@
-### Hi 👋
+# Hi, I'm Grzegorz Studzinski 👋
 
 I'm making my best effort to start thinking in JavaScript. Looking for a challenging full-stack / frontend (React.js) student internship!
 
-Read my story: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) linkedin bio](https://www.linkedin.com/in/grzegorzstudzinski/)
-
+Read my story: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn bio](https://www.linkedin.com/in/grzegorzstudzinski/)
 
 See how I work:
 
