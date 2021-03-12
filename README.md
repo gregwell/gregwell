@@ -4,13 +4,13 @@ I'm making my best effort to start thinking in JavaScript. Looking for a challen
 
 Read my story: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn bio](https://www.linkedin.com/in/grzegorzstudzinski/)
 
-See how I work:
+Check out my latest projects:
 
-- 📌: important project
-- 👋: I'm currently working on
-- 😎: I'm currently focusing on the most
+- 📌 - important
+- 👋 - I'm currently working on
+- 😎 - I'm currently focusing on the most
 
-**Latest university projects:**
+**University:**
 
  created: | name:                                | type:       | stack:                           |
 |----------|--------------------------------------|-------------|----------------------------------|
@@ -21,7 +21,7 @@ See how I work:
 | 13.01.21 | 📌 **[activity-hub-rest-api](https://github.com/gregwell/activity-hub-rest-api)**                         | development | JavaScript, Node.js, Mongodb, Express, Morgan, JWT auth |
 
 
-**Latest personal development projects:**
+**Personal development:**
 
  created: | name:                                | type:       | stack:                           |
 |----------|--------------------------------------|-------------|----------------------------------|
