@@ -14,10 +14,10 @@ See how I work:
 
  created: | name:                                | type:       | stack:                           |
 |----------|--------------------------------------|-------------|----------------------------------|
-| 09.10.20 | [parallel-programming (in Polish)](https://github.com/gregwell/university-notes/tree/main/polish/parallel-programming) | development + notes       | C (OpenMP, OpenMPI) , Java (ExecutorService)                         |
+| 09.10.20 | [parallel-programming (in Polish)](https://github.com/gregwell/university-notes/tree/main/polish/parallel-programming) | development, notes       | C (OpenMP, OpenMPI) , Java (ExecutorService)                         |
 | 13.10.20 | 📌 **[fem-simulations](https://github.com/gregwell/fem-simulations)**                      | development | C++                              |
-| 22.10.20 | [java-algorithms](https://github.com/gregwell/java-algorithms)                      | development + notes | Java, JUnit                             |
-| 07.12.20 | 📌 **[car-showroom-management](https://github.com/gregwell/car-showroom-management)**              | development + notes | Java, JavaFX, CSS                             |
+| 22.10.20 | [java-algorithms](https://github.com/gregwell/java-algorithms)                      | development, notes | Java, JUnit                             |
+| 07.12.20 | 📌 **[car-showroom-management](https://github.com/gregwell/car-showroom-management)**              | development, notes | Java, JavaFX, CSS                             |
 | 13.01.21 | 📌 **[activity-hub-rest-api](https://github.com/gregwell/activity-hub-rest-api)**                         | development | JavaScript, Node.js, Mongodb, Express, Morgan, JWT auth |
 
 
