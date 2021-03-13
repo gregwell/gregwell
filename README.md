@@ -2,7 +2,7 @@
 
 I'm making my best effort to start thinking in JavaScript. Looking for a challenging full-stack / frontend (React.js) student internship!
 
-Read my story: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn summary](https://www.linkedin.com/in/grzegorzstudzinski/)
+Read my story: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/grzegorzstudzinski/)
 
 Check out my latest projects:
 
