@@ -24,28 +24,33 @@ This is what I have been learning over the last few years 🤠
 |🇵🇱| [databases](https://github.com/gregwell/db2020) |Python| Python programming, SQL queries (a quick group project, not much learned)
 |🇵🇱| [ski rental](https://github.com/gregwell/Narty/tree/test) |C++| (also a group project, lack of sufficient quality)
 |🇪🇳| [numerical methods](https://github.com/gregwell/numerical-methods) |C++| gauss elimination, jacobi, bisection method, newton method, newton-raphson, simpson, monte-carlo, gauss methods of approximation of definite integral, solcing diff. eq, euler, Runge-Kutta methods
-|🇵🇱| [parallel programming](https://github.com/gregwell/university-notes/tree/main/polish/parallel-programming) |Java, C| description coming soon                         |
-|🇪🇳| 📌 **[fem simulations](https://github.com/gregwell/fem-simulations)**                     |C++| description coming soon
-|🇪🇳| [java algorithms](https://github.com/gregwell/java-algorithms)                     |Java|      description coming soon
-|🇪🇳| 📌 **[car showroom management](https://github.com/gregwell/car-showroom-management)**              |Java| description coming soon                      |
-|🇪🇳| 📌 **[activity hub rest api](https://github.com/gregwell/activity-hub-rest-api)**                         |JavaScript| description coming soon
+|🇵🇱| [parallel programming](https://github.com/gregwell/university-notes/tree/main/polish/parallel-programming) |Java, C| no description (yet!)                         |
+|🇪🇳| 📌 **[fem simulations](https://github.com/gregwell/fem-simulations)**                     |C++| no description (yet!)
+|🇪🇳| [java algorithms](https://github.com/gregwell/java-algorithms)                     |Java|      no description (yet!)
+|🇪🇳| 📌 **[car showroom management](https://github.com/gregwell/car-showroom-management)**              |Java| no description (yet!)                      |
+|🇪🇳| 📌 **[activity hub rest api](https://github.com/gregwell/activity-hub-rest-api)**                         |JavaScript| no description (yet!)
 
 
 
 
 # Personal development 
 
-- **Notes & detailed analysis**
+- **Notes**
 
 | | name:    |what I have learned|
 |-|----------|--------|
-|🇪🇳|  [the-facebook](https://github.com/gregwell/the-facebook)                | description coming soon |
-|🇪🇳| [react](https://github.com/gregwell/university-notes/blob/main/english/javascript/react.md)      | description coming soon|
-|🇪🇳| [javascript](https://github.com/gregwell/university-notes/blob/main/english/javascript/javascript.md) | description coming soon   |
-|🇪🇳|  [react-sweet-state-todo-app](https://github.com/gregwell/react-sweet-state-todo-app)         | description coming soon | 
+|🇪🇳| [react](https://github.com/gregwell/university-notes/blob/main/english/javascript/react.md)      | no description (yet!)|
+|🇪🇳| [javascript](https://github.com/gregwell/university-notes/blob/main/english/javascript/javascript.md) | no description (yet!)   |
+
+- **Detailed project analysis**
+
+| | name:    |what I have learned|
+|-|----------|--------|
+|🇪🇳|  [the-facebook](https://github.com/gregwell/the-facebook)                | no description (yet!) |
+|🇪🇳|  [react-sweet-state-todo-app](https://github.com/gregwell/react-sweet-state-todo-app)         | no description (yet!) | 
 
 - **Programming**
 
 | | name:    | language:                                | what I have learned|
 |-|----------|--------------------------------------|--------|
-|🇪🇳|  📌 **[currency-converter](https://github.com/gregwell/currency-converter)**        | JavaScript | description coming soon
+|🇪🇳|  📌 **[currency-converter](https://github.com/gregwell/currency-converter)**        | JavaScript | no description (yet!)
