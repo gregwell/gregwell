@@ -6,7 +6,7 @@ My story: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://ww
 
 All my projects: 📝[gregwell/projects.md](https://github.com/gregwell/gregwell/blob/main/projects.md)
 
-Below you can find my latest projects:
+Below you can find my **latest** projects:
 
 - 📌 - important
 - 👋 - I'm currently working on
