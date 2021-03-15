@@ -31,4 +31,4 @@ Check out my latest projects:
 | 23.02.21    | 👋 [react-sweet-state-todo-app](https://github.com/gregwell/react-sweet-state-todo-app)        | detailed analysis, UI design, development (planned) | JavaScript, React, react-sweet-state, HTML, CSS, Material-ui     
 | 07.03.21    | 📌👋😎 **[currency-converter](https://github.com/gregwell/currency-converter)**        | development (in progress) | JavaScript, React, HTML, CSS, Material-ui     
 
-**To view the complete list of all my projects navigate to [gregwell/projects.md](https://github.com/gregwell/gregwell/blob/main/projects.md)**.
+To view the complete list of all my projects navigate to **[gregwell/projects.md](https://github.com/gregwell/gregwell/blob/main/projects.md)**.
