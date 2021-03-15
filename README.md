@@ -4,7 +4,9 @@ I'm making my best effort to start thinking in JavaScript. Looking for a challen
 
 Read my story: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/grzegorzstudzinski/)
 
-Check out my latest projects:
+The complete list of all my projects: 📝[gregwell/projects.md](https://github.com/gregwell/gregwell/blob/main/projects.md)
+
+Below you can check out my latest projects:
 
 - 📌 - important
 - 👋 - I'm currently working on
@@ -30,5 +32,3 @@ Check out my latest projects:
 | 10.02.21    |👋 [javascript](https://github.com/gregwell/university-notes/blob/main/english/javascript/javascript.md) | notes                 | JavaScript             |
 | 23.02.21    | 👋 [react-sweet-state-todo-app](https://github.com/gregwell/react-sweet-state-todo-app)        | detailed analysis, UI design, development (planned) | JavaScript, React, react-sweet-state, HTML, CSS, Material-ui     
 | 07.03.21    | 📌👋😎 **[currency-converter](https://github.com/gregwell/currency-converter)**        | development (in progress) | JavaScript, React, HTML, CSS, Material-ui     
-
-To view the complete list of all my projects navigate to **[gregwell/projects.md](https://github.com/gregwell/gregwell/blob/main/projects.md)**.
