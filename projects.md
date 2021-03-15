@@ -2,6 +2,8 @@
 
 This is what I have been learning over the last few years 🤠
 
+## University
+
 - **Math, physics & engineering notes**
 
 | | name:    | what I have learned|
@@ -33,7 +35,7 @@ This is what I have been learning over the last few years 🤠
 
 
 
-# Personal development 
+## Personal development 
 
 - **Notes**
 
