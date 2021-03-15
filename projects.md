@@ -24,7 +24,7 @@ This is what I have been learning over the last few years 🤠
 |🇪🇳| [computer architectures](https://github.com/gregwell/x86-assembly) | x86 Assembly| x86 Assembly programming, computer architecture
 |🇪🇳| [algorithms and data structures](https://github.com/gregwell/algorithms-and-data-structures) |C++| lists, queues, stacks, binary search tree, graphs, bubble sort, comb sort, heap sort, insert sort, merge sort, shell sort
 |🇵🇱| [databases](https://github.com/gregwell/db2020) |Python| Python programming, SQL queries (a quick group project, not much learned)
-|🇵🇱| [ski rental](https://github.com/gregwell/Narty/tree/test) |C++| (also a group project, lack of sufficient quality)
+|🇵🇱| [ski rental](https://github.com/gregwell/Narty/tree/test) |C++| (also a group project, lack of sufficient quality, but shared anyway)
 |🇪🇳| [numerical methods](https://github.com/gregwell/numerical-methods) |C++| gauss elimination, jacobi, bisection method, newton method, newton-raphson, simpson, monte-carlo, gauss methods of approximation of definite integral, solcing diff. eq, euler, Runge-Kutta methods
 |🇵🇱| [parallel programming](https://github.com/gregwell/university-notes/tree/main/polish/parallel-programming) |Java, C| no description (yet!)                         |
 |🇪🇳| 📌 **[fem simulations](https://github.com/gregwell/fem-simulations)**                     |C++| no description (yet!)
