@@ -2,7 +2,7 @@
 
 - 🤠 This is what I have been learning over the last few years 
 
-- 📝 Only those projects that have at least decent notes or any code
+- 📝 Included only projects that have at least decent notes or any code
 
 - 🚀 Updating this table let me keep track of my progress 
 
