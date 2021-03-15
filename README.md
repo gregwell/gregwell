@@ -1,6 +1,6 @@
 # Hi, I'm Grzegorz Studzinski 👋
 
-I'm making my best effort to start thinking in JavaScript & React. Looking for a challenging student internship!
+I'm making my best effort to start thinking in JavaScript / React. Looking for a challenging student internship!
 
 My story: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn *About* section](https://www.linkedin.com/in/grzegorzstudzinski/)
 
