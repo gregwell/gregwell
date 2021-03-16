@@ -1,4 +1,4 @@
-# The Complete List Of All My Projects
+# The Complete List Of My Projects
 
 - 🤠 This is what I have been learning over the last few years 
 
