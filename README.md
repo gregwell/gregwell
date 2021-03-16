@@ -16,6 +16,7 @@ Below you can find my **latest** projects:
 
  created: | name:                                | type:       | stack:                           |
 |----------|--------------------------------------|-------------|----------------------------------|
+| 09.10.20 | [parallel-programming (in Polish)](https://github.com/gregwell/university-notes/tree/main/polish/parallel-programming) | development, notes       | C (OpenMP, OpenMPI) , Java (ExecutorService)                         |
 | 13.10.20 | 📌 **[fem-simulations](https://github.com/gregwell/fem-simulations)**                      | development | C++                              |
 | 22.10.20 | [java-algorithms](https://github.com/gregwell/java-algorithms)                      | development, notes | Java, JUnit                             |
 | 07.12.20 | 📌 **[car-showroom-management](https://github.com/gregwell/car-showroom-management)**              | development, notes | Java, JavaFX, CSS                             |
