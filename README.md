@@ -4,7 +4,7 @@ I'm making my best effort to start thinking in JavaScript. Looking for a challen
 
 My story: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn *About* section](https://www.linkedin.com/in/grzegorzstudzinski/)
 
-All my projects: 📝[gregwell/projects.md](https://github.com/gregwell/gregwell/blob/main/projects.md)
+Complete list of my projects: 📝[gregwell/projects.md](https://github.com/gregwell/gregwell/blob/main/projects.md)
 
 Below you can find my **latest** projects:
 
