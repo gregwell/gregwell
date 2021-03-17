@@ -63,6 +63,7 @@
 |-|----------|--------------------------------------|--------|
 |🇬🇧|  📌👋😎 **[currency-converter](https://github.com/gregwell/currency-converter)**        | JavaScript | writing an app in React in practice - component-based user interface, fetching data from Web API, tests - still in development
 
-📌 - important
-👋 - I'm currently working on
-😎 - I'm currently focusing on the most
+**Emoji:**
+- 📌 - important project
+- 👋 - I'm currently working on
+- 😎 - I'm currently focusing on the most
