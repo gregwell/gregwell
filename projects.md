@@ -49,8 +49,7 @@
 
 | | name:    |what I have learned|
 |-|----------|--------|
-|🇬🇧| 👋 [react‏‏‎](https://github.com/gregwell/university-notes/blob/main/english/javascript/react.md) | React, Redux, React Router, react-sweet-state, DOM/ReactDOM, Hooks - fundamentals - still in development |
-|🇬🇧| 👋 [javascript‏‏‎‎](https://github.com/gregwell/university-notes/blob/main/english/javascript/javascript.md) ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎  | JavaScript syntax and operators, handling asynchronous tasks(promises, async/await), objects - still in development   |
+|🇬🇧| 👋 [javascript](https://github.com/gregwell/university-notes/blob/main/english/javascript) | JavaScript (syntax and operators, handling asynchronous tasks), React (Redux, React Router, react-sweet-state, DOM/ReactDOM, Hooks) - still in development |
 
 - **Detailed project analysis**
 
