@@ -1,12 +1,14 @@
 # The Complete List Of My Projects
 
-- 🤠 This is what I have been learning over the last few years 
+- This is what I have been learning over the last few years 
+- Included only projects that have at least decent notes or any code
+- Updating this table let me keep track of my progress 
+- Project descriptions in Polish will be translated to English shortly
 
-- 📝 Included only projects that have at least decent notes or any code
-
-- 🚀 Updating this table let me keep track of my progress 
-
-- ⌛ Project descriptions in Polish will be translated to English shortly
+**Emoji:**
+- 📌 - important project
+- 👋 - I'm currently working on
+- 😎 - I'm currently focusing on the most
 
 ## University
 
@@ -63,7 +65,8 @@
 |-|----------|--------------------------------------|--------|
 |🇬🇧|  📌👋😎 **[currency-converter](https://github.com/gregwell/currency-converter)**        | JavaScript | writing an app in React in practice - component-based user interface, fetching data from Web API, tests - still in development
 
-**Emoji:**
-- 📌 - important project
-- 👋 - I'm currently working on
-- 😎 - I'm currently focusing on the most
+## Other projects:
+
+| | name:    | what I have learned:|
+|-|----------|--------|
+|🇵🇱| [math-mature-exam](https://github.com/gregwell/university-notes/tree/main/polish/old-school-style-notes/matematyka-matura) | notes on all high school math material (learning from scratch from September 2017 to April 2018)
