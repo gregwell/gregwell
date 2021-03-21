@@ -28,6 +28,6 @@ Below you can find my **latest** projects:
  created: | name:                                | type:       | stack:                           |
 |----------|--------------------------------------|-------------|----------------------------------|
 | 16.01.21    |  [the-facebook](https://github.com/gregwell/the-facebook)                | detailed analysis              | JavaScript, React, Redux, React Router, HTML, CSS, Material-ui, Node.js, MongoDB, Express, JWT auth |
-| 08.02.21     |👋 [javascript](https://github.com/gregwell/university-notes/blob/main/english/javascript)      | notes                 | JavaScript, React, Redux, React Router, react-sweet-state                           |
+| 08.02.21     |👋😎 [javascript](https://github.com/gregwell/university-notes/blob/main/english/javascript)      | notes                 | JavaScript, React, Redux, React Router, react-sweet-state                           |
 | 23.02.21    | 👋 [react-sweet-state-todo-app](https://github.com/gregwell/react-sweet-state-todo-app)        | detailed analysis, UI design, development (planned) | JavaScript, React, react-sweet-state, HTML, CSS, Material-ui     
 | 07.03.21    | 📌👋😎 **[currency-converter](https://github.com/gregwell/currency-converter)**        | development (in progress) | JavaScript, React, HTML, CSS, Material-ui     
