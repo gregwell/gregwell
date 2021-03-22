@@ -14,7 +14,7 @@ Complete list of my projects: 📝[gregwell/projects.md](https://github.com/greg
 | 07.12.20 | 📌 **[car-showroom-management](https://github.com/gregwell/car-showroom-management)**              | development, notes | Java, JavaFX, CSS                             |
 | 13.01.21 | 📌 **[activity-hub-rest-api](https://github.com/gregwell/activity-hub-rest-api)**                         | development | JavaScript, Node.js, Mongodb, Express, Morgan, JWT auth |
 
-👋 I'm just getting started with some new university projects including neural networks and containerization using Docker
+- 👋 I'm just getting started with some new university projects including neural networks and containerization using Docker
 
 **Latest personal development projects:**
 
