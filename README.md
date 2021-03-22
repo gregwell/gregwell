@@ -4,9 +4,7 @@ I'm making my best effort to start thinking in JavaScript. Looking for a challen
 
 Complete list of my projects: 📝[gregwell/projects.md](https://github.com/gregwell/gregwell/blob/main/projects.md)
 
-Latest projects:
-
-**University:**
+**Latest university projects:**
 
  created: | name:                                | type:       | stack:                           |
 |----------|--------------------------------------|-------------|----------------------------------|
@@ -18,7 +16,7 @@ Latest projects:
 
 👋 I'm just getting started with some new university projects including neural networks and containerization using Docker
 
-**Personal development:**
+**Latest personal development projects:**
 
  created: | name:                                | type:       | stack:                           |
 |----------|--------------------------------------|-------------|----------------------------------|
