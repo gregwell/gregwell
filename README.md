@@ -2,9 +2,9 @@
 
 I'm making my best effort to start thinking in JavaScript. Looking for a challenging summer internship!
 
-**Complete list** of my projects: 📝[gregwell/projects.md](https://github.com/gregwell/gregwell/blob/main/projects.md)
+Complete list of my projects: 📝[gregwell/projects.md](https://github.com/gregwell/gregwell/blob/main/projects.md)
 
-My **latest** projects:
+Latest projects:
 
 **University:**
 
