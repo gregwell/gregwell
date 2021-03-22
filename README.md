@@ -22,6 +22,7 @@ Below you can find my **latest** projects:
 | 07.12.20 | 📌 **[car-showroom-management](https://github.com/gregwell/car-showroom-management)**              | development, notes | Java, JavaFX, CSS                             |
 | 13.01.21 | 📌 **[activity-hub-rest-api](https://github.com/gregwell/activity-hub-rest-api)**                         | development | JavaScript, Node.js, Mongodb, Express, Morgan, JWT auth |
 
+👋 I'm just getting started with some new projects including neural networks and containerization using Docker
 
 **Personal development:**
 
