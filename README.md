@@ -42,7 +42,7 @@ Complete list of my projects: 📝[gregwell/projects.md](https://github.com/greg
 
 **Emoji:**
 
-- 📌 - important
+- 📌 - important project
 - 👋 - I'm currently working on
 - 😎 - I'm currently focusing on the most
 
