@@ -11,7 +11,7 @@ Complete list of my projects: 📝[gregwell/projects.md](https://github.com/greg
 |created: | name:    | language| what I have learned|
 |-|----------|------|--------|
 |09.10.20| [parallel-programming](https://github.com/gregwell/university-notes/tree/main/polish/parallel-programming) |Java, C| Concurrent/parallel/distributed processing, threads/processes, race condition/data race, mutual exclusion, Pthreads library, SPMD/MPMD, decomposition techniques, readers–writers problem, OpenMP, MPI (OpenMPI)                           |
-|13.10.20| 📌 **[fem-simulations](https://github.com/gregwell/fem-simulations)**                     |C++| Finite Element Method analysis, learned how to work more efficiently with arrays
+|13.10.20| 📌 **[fem-simulations](https://github.com/gregwell/fem-simulations)**                     |C++| Finite Element Method analysis, learned how to work more efficiently with arrays, switched from debugging using console logs to debugger
 |22.10.20| [java-algorithms](https://github.com/gregwell/java-algorithms)                     |Java| Abstract classes, interfaces, improved OOP skills in general, learned how to write exceptions, JUnit tests, strategy pattern    
 |07.12.20| 📌 **[car-showroom-management](https://github.com/gregwell/car-showroom-management)**              |Java| JavaFX framework, MVC design pattern, some css, improved OOP skills                      |
 |13.01.21| 📌 **[activity-hub-rest-api](https://github.com/gregwell/activity-hub-rest-api)**                         |JavaScript| JavaScript syntax, REST API concepct, HTTP methods, JWT tokens authorization/authentication, sending requests via postman, MongoDB Atlas 
