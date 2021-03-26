@@ -62,7 +62,7 @@
 
 | | name:    | language:                                | what I have learned|
 |-|----------|--------------------------------------|--------|
-|🇬🇧|  📌👋😎 **[currency-converter](https://github.com/gregwell/currency-converter)**        | JavaScript | writing an app in React in practice - component-based user interface, fetching data from Web API, tests - still in development
+|🇬🇧|  📌👋😎 **[currency-converter](https://github.com/gregwell/currency-converter)**        | JavaScript | React app development in practice - component-based user interface, fetching data from Web API, tests - still in development
 
 ## Other projects:
 
