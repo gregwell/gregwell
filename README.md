@@ -38,7 +38,7 @@ Complete list of my projects: 📝[gregwell/projects.md](https://github.com/greg
 
 |created: | name:    | language:                                | what I have learned|
 |-|----------|--------------------------------------|--------|
-|07.03.21|  📌👋😎 **[currency-converter](https://github.com/gregwell/currency-converter)**        | JavaScript | writing an app in React in practice - component-based user interface, fetching data from Web API, tests - still in development
+|07.03.21|  📌👋😎 **[currency-converter](https://github.com/gregwell/currency-converter)**        | JavaScript | React app development in practice - component-based user interface, fetching data from Web API, tests - still in development
 
 **Emoji:**
 
