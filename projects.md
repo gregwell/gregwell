@@ -5,11 +5,6 @@
 - Updating this table let me keep track of my progress 
 - Project descriptions in Polish will be translated to English shortly
 
-**Emoji:**
-- 📌 - important project
-- 👋 - I'm currently working on
-- 😎 - I'm currently focusing on the most
-
 ## University
 
 - **Math, physics & engineering notes**
@@ -69,3 +64,8 @@
 | | name:    | what I have learned:|
 |-|----------|--------|
 |🇵🇱| [math-mature-exam](https://github.com/gregwell/university-notes/tree/main/polish/old-school-style-notes/matematyka-matura) | notes on all high school math material (learning from scratch from September 2017 to April 2018)
+
+**Emoji:**
+- 📌 - important project
+- 👋 - I'm currently working on
+- 😎 - I'm currently focusing on the most
