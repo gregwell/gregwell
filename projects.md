@@ -44,20 +44,21 @@
 
 | | name:    |what I have learned|
 |-|----------|--------|
-|🇬🇧| 👋 [javascript](https://github.com/gregwell/university-notes/blob/main/english/javascript) | JavaScript (syntax and operators, handling asynchronous tasks), React (Redux, React Router, react-sweet-state, DOM/ReactDOM, Hooks) - still in development |
+|🇬🇧| 👋 [javascript](https://github.com/gregwell/university-notes/blob/main/english/javascript) | 1.JavaScript (syntax and operators, handling asynchronous tasks), 2.React (Redux, React Router, react-sweet-state, DOM/ReactDOM, Hooks), 3.Single Page Application performance optimization |
 
 - **Detailed project analysis**
 
 | | name:    |what I have learned|
 |-|----------|--------|
 |🇬🇧|  [the-facebook](https://github.com/gregwell/the-facebook)                | the practical approach to developing a project with the use of: JavaScript, React, Redux, React Router, HTML, CSS, Material-ui, Node.js, MongoDB, Express, JWT auth |
-|🇬🇧| 👋 [react-sweet-state-todo-app](https://github.com/gregwell/react-sweet-state-todo-app)         | Understood better React state management - still in development | 
+|🇬🇧|  [react-sweet-state-todo-app](https://github.com/gregwell/react-sweet-state-todo-app)         | Understood better React state management | 
 
 - **Programming**
 
 | | name:    | language:                                | what I have learned|
 |-|----------|--------------------------------------|--------|
-|🇬🇧|  📌👋😎 **[currency-converter](https://github.com/gregwell/currency-converter)**        | JavaScript | React app development in practice - component-based user interface, fetching data from Web API, tests - still in development
+|🇬🇧1|  📌 **[currency-converter](https://github.com/gregwell/currency-converter)**        | JavaScript | React app development in practice - component-based user interface, fetching data from Web API, tests 
+|🇬🇧|  📌👋😎 **[star-wars-characters](https://github.com/gregwell/star-wars-characters)**        | TypeScript | TypeScript syntax, using axios for fetching, responsive layout
 
 ## Other projects:
 

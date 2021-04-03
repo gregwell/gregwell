@@ -32,13 +32,15 @@ Complete list of my projects: 📝[gregwell/projects.md](https://github.com/greg
 |created: | name:    |what I have learned|
 |-|----------|--------|
 |16.01.21|  [the-facebook](https://github.com/gregwell/the-facebook)                | the practical approach to developing a project with the use of: JavaScript, React, Redux, React Router, HTML, CSS, Material-ui, Node.js, MongoDB, Express, JWT auth |
-|23.02.21| 👋 [react-sweet-state-todo-app](https://github.com/gregwell/react-sweet-state-todo-app)         | Understood better React state management - still in development | 
+|23.02.21|  [react-sweet-state-todo-app](https://github.com/gregwell/react-sweet-state-todo-app)         | Understood better React state management | 
 
 - **Programming**
 
 |created: | name:    | language:                                | what I have learned|
 |-|----------|--------------------------------------|--------|
-|07.03.21|  📌👋😎 **[currency-converter](https://github.com/gregwell/currency-converter)**        | JavaScript | React app development in practice - component-based user interface, fetching data from Web API, tests - still in development
+|07.03.21|  📌 **[currency-converter](https://github.com/gregwell/currency-converter)**        | JavaScript | React app development in practice - component-based user interface, fetching data from Web API, tests 
+|02.04.21|  📌👋😎 **[star-wars-characters](https://github.com/gregwell/star-wars-characters)**        | TypeScript | TypeScript syntax, using axios for fetching, responsive layout
+
 
 **Emoji:**
 
