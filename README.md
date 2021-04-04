@@ -17,7 +17,7 @@ Complete list of my projects: 📝[gregwell/projects.md](https://github.com/greg
 |13.01.21| 📌 **[activity-hub-rest-api](https://github.com/gregwell/activity-hub-rest-api)**                         |JavaScript| JavaScript syntax, REST API concepct, HTTP methods, JWT tokens authorization/authentication, sending requests via postman, MongoDB Atlas 
 
 
-- 👋 I'm just getting started with some new university projects including neural networks and containerization using Docker
+- 👋😎 I'm just getting started with some new university projects including neural networks and containerization using Docker
 
 ### Latest personal development projects:
 
@@ -25,7 +25,7 @@ Complete list of my projects: 📝[gregwell/projects.md](https://github.com/greg
 
 |created: | name:    |what I have learned|
 |-|----------|--------|
-|08.02.21| 👋 [javascript](https://github.com/gregwell/university-notes/blob/main/english/javascript) | JavaScript (syntax and operators, handling asynchronous tasks), React (Redux, React Router, react-sweet-state, DOM/ReactDOM, Hooks), Single Page Application performance optimization |
+|08.02.21| 👋 [javascript](https://github.com/gregwell/university-notes/blob/main/english/javascript) | 1.JavaScript (syntax and operators, handling asynchronous tasks), 2.React (Redux, React Router, react-sweet-state, DOM/ReactDOM, Hooks), 3.Single Page Application performance optimization |
 
 - **Detailed project analysis**
 
@@ -39,7 +39,7 @@ Complete list of my projects: 📝[gregwell/projects.md](https://github.com/greg
 |created: | name:    | language:                                | what I have learned|
 |-|----------|--------------------------------------|--------|
 |07.03.21|  📌 **[currency-converter](https://github.com/gregwell/currency-converter)**        | JavaScript | React app development in practice - component-based user interface, fetching data from Web API, tests 
-|02.04.21|  📌👋😎 **[star-wars-characters](https://github.com/gregwell/star-wars-characters)**        | TypeScript | TypeScript syntax, using axios for fetching, infinite scroll, responsive layout
+|02.04.21|  📌👋😎 **[star-wars-characters](https://github.com/gregwell/star-wars-characters)**        | TypeScript | TypeScript syntax, React: using axios for fetching, infinite scroll, responsive layout
 
 
 **Emoji:**
