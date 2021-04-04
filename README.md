@@ -29,10 +29,10 @@ Complete list of my projects: 📝[gregwell/projects.md](https://github.com/greg
 
 - **Detailed project analysis**
 
-|created: | name:    |what I have learned|
-|-|----------|--------|
-|16.01.21|  [the-facebook](https://github.com/gregwell/the-facebook)                | the practical approach to developing a project with the use of: JavaScript, React, Redux, React Router, HTML, CSS, Material-ui, Node.js, MongoDB, Express, JWT auth |
-|23.02.21|  [react-sweet-state-todo-app](https://github.com/gregwell/react-sweet-state-todo-app)         | Understood better React state management | 
+|created: | name: | language:    |what I have learned|
+|-|-|----------|--------|
+|16.01.21| [the-facebook](https://github.com/gregwell/the-facebook)                | JavaScript | the practical approach to developing a project with the use of: JavaScript, React, Redux, React Router, HTML, CSS, Material-ui, Node.js, MongoDB, Express, JWT auth |
+|23.02.21| [react-sweet-state-todo-app](https://github.com/gregwell/react-sweet-state-todo-app)         | JavaScript | Understood better React state management | 
 
 - **Programming**
 
