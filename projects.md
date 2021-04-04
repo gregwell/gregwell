@@ -58,7 +58,7 @@
 | | name:    | language:                                | what I have learned|
 |-|----------|--------------------------------------|--------|
 |🇬🇧1|  📌 **[currency-converter](https://github.com/gregwell/currency-converter)**        | JavaScript | React app development in practice - component-based user interface, fetching data from Web API, tests 
-|🇬🇧|  📌👋😎 **[star-wars-characters](https://github.com/gregwell/star-wars-characters)**        | TypeScript | TypeScript syntax, using axios for fetching, responsive layout
+|🇬🇧|  📌👋😎 **[star-wars-characters](https://github.com/gregwell/star-wars-characters)**        | TypeScript | TypeScript syntax, using axios for fetching, infinite scroll, responsive layout
 
 ## Other projects:
 
