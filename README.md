@@ -39,7 +39,7 @@ Complete list of my projects: 📝[gregwell/projects.md](https://github.com/greg
 |created: | name:    | language:                                | what I have learned|
 |-|----------|--------------------------------------|--------|
 |07.03.21|  📌 **[currency-converter](https://github.com/gregwell/currency-converter)**        | JavaScript | React app development in practice - component-based user interface, fetching data from Web API, tests 
-|21.03.21|  👋 [ts-playground](https://github.com/gregwell/ts-playground)        | TypeScript | /small projects/ ts-node for running TypeScript with Node.js, classes in TypeScript
+|21.03.21|  👋 [ts-playground](https://github.com/gregwell/ts-playground) *(small projects)*        | TypeScript | ts-node for running TypeScript with Node.js, classes in TypeScript
 |02.04.21|  📌👋😎 **[star-wars-characters](https://github.com/gregwell/star-wars-characters)**        | TypeScript | React with TypeScript: using axios for fetching, infinite scroll, responsive layout
 
 
