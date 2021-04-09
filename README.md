@@ -25,7 +25,7 @@ Complete list of my projects: 📝[gregwell/projects.md](https://github.com/greg
 
 |created: | name:    |what I have learned|
 |-|----------|--------|
-|08.02.21 - 19.03.21|  [javascript](https://github.com/gregwell/university-notes/blob/main/english/javascript) 🚧 *(small projects)* | [1. JavaScript](https://github.com/gregwell/university-notes/blob/main/english/javascript/javascript.md) (syntax and operators, handling asynchronous tasks). [2. React](https://github.com/gregwell/university-notes/blob/main/english/javascript/react.md) (Redux, React Router, react-sweet-state, DOM/ReactDOM, Hooks). [3. Speeding-up SPA](https://github.com/gregwell/university-notes/blob/main/english/javascript/speeding-up-spa.md) (Single Page Application performance optimization) |
+|08.02.21 - 19.03.21|  [javascript](https://github.com/gregwell/university-notes/blob/main/english/javascript)  *(small projects)* 🚧 | [1. JavaScript](https://github.com/gregwell/university-notes/blob/main/english/javascript/javascript.md) (syntax and operators, handling asynchronous tasks). [2. React](https://github.com/gregwell/university-notes/blob/main/english/javascript/react.md) (Redux, React Router, react-sweet-state, DOM/ReactDOM, Hooks). [3. Speeding-up SPA](https://github.com/gregwell/university-notes/blob/main/english/javascript/speeding-up-spa.md) (Single Page Application performance optimization) |
 
 - **Detailed project analysis**
 
