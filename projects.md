@@ -68,5 +68,5 @@
 
 **Emoji:**
 - 📌 - important project
-- 👋 - I'm currently working on
+- 👋 - in development
 - 😎 - I'm currently focusing on the most
