@@ -43,7 +43,7 @@
 
 | | name:    |what I have learned|
 |-|----------|--------|
-|🇬🇧| 👋 [javascript](https://github.com/gregwell/university-notes/blob/main/english/javascript) *(small projects)* | [1. JavaScript](https://github.com/gregwell/university-notes/blob/main/english/javascript/javascript.md) (syntax and operators, handling asynchronous tasks). [2. React](https://github.com/gregwell/university-notes/blob/main/english/javascript/react.md) (Redux, React Router, react-sweet-state, DOM/ReactDOM, Hooks). [3. Speeding-up SPA](https://github.com/gregwell/university-notes/blob/main/english/javascript/speeding-up-spa.md) (Single Page Application performance optimization) |
+|🇬🇧| 🚧 [javascript](https://github.com/gregwell/university-notes/blob/main/english/javascript) *(small projects)* | [1. JavaScript](https://github.com/gregwell/university-notes/blob/main/english/javascript/javascript.md) (syntax and operators, handling asynchronous tasks). [2. React](https://github.com/gregwell/university-notes/blob/main/english/javascript/react.md) (Redux, React Router, react-sweet-state, DOM/ReactDOM, Hooks). [3. Speeding-up SPA](https://github.com/gregwell/university-notes/blob/main/english/javascript/speeding-up-spa.md) (Single Page Application performance optimization) |
 
 - **Detailed project analysis**
 
@@ -57,8 +57,8 @@
 | | name:    | language:                                | what I have learned|
 |-|----------|--------------------------------------|--------|
 |🇬🇧|  📌 **[currency-converter](https://github.com/gregwell/currency-converter)**        | JavaScript | React app development in practice - component-based user interface, fetching data from Web API, tests 
-|🇬🇧| 👋 [ts-playground](https://github.com/gregwell/ts-playground) *(small projects)*        | TypeScript | ts-node for running TypeScript with Node.js, classes in TypeScript
-|🇬🇧|  📌👋😎 **[star-wars-characters](https://github.com/gregwell/star-wars-characters)**        | TypeScript | React with TypeScript: using axios for fetching, infinite scroll, responsive layout
+|🇬🇧| 🚧 [ts-playground](https://github.com/gregwell/ts-playground) *(small projects)*        | TypeScript | ts-node for running TypeScript with Node.js, classes in TypeScript
+|🇬🇧|  📌🚧😎 **[star-wars-characters](https://github.com/gregwell/star-wars-characters)**        | TypeScript | React with TypeScript: using axios for fetching, infinite scroll, responsive layout
 
 ## Other projects:
 
@@ -68,5 +68,5 @@
 
 **Emoji:**
 - 📌 - important project
-- 👋 - in development
+- 🚧 - in development
 - 😎 - I'm currently focusing on the most
