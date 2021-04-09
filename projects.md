@@ -29,10 +29,10 @@
 |🇵🇱| [ski-rental](https://github.com/gregwell/Narty/tree/test) |C++| (also a group project, lack of sufficient quality, but shared anyway for documentation purposes) 
 |🇬🇧| [numerical-methods](https://github.com/gregwell/numerical-methods) |C++| Gauss elimination, jacobi, bisection method, newton method, newton-raphson, simpson, monte-carlo, gauss methods of approximation of definite integral, solcing diff. eq, euler, Runge-Kutta methods
 |🇵🇱| [parallel-programming](https://github.com/gregwell/university-notes/tree/main/polish/parallel-programming) |Java, C| Concurrent/parallel/distributed processing, threads/processes, race condition/data race, mutual exclusion, Pthreads library, SPMD/MPMD, decomposition techniques, readers–writers problem, OpenMP, MPI (OpenMPI)                           |
-|🇬🇧| 📌 **[fem-simulations](https://github.com/gregwell/fem-simulations)**                     |C++| finite element method analysis, learned to work more efficiently with arrays
+|🇬🇧|  **[fem-simulations](https://github.com/gregwell/fem-simulations)**  📌                   |C++| finite element method analysis, learned to work more efficiently with arrays
 |🇬🇧| [java-algorithms](https://github.com/gregwell/java-algorithms)                     |Java| Abstract classes, interfaces, improved OOP skills in general, learned how to write exceptions, JUnit tests, strategy pattern    
-|🇬🇧| 📌 **[car-showroom-management](https://github.com/gregwell/car-showroom-management)**              |Java| JavaFX framework, MVC design pattern, some css, improved OOP skills                      |
-|🇬🇧| 📌 **[activity-hub-rest-api](https://github.com/gregwell/activity-hub-rest-api)**                         |JavaScript| JavaScript syntax, REST API concepct, HTTP methods, JWT tokens authorization/authentication, sending requests via postman, MongoDB Atlas 
+|🇬🇧|  **[car-showroom-management](https://github.com/gregwell/car-showroom-management)** 📌             |Java| JavaFX framework, MVC design pattern, some css, improved OOP skills                      |
+|🇬🇧|  **[activity-hub-rest-api](https://github.com/gregwell/activity-hub-rest-api)** 📌                        |JavaScript| JavaScript syntax, REST API concepct, HTTP methods, JWT tokens authorization/authentication, sending requests via postman, MongoDB Atlas 
 
 
 
@@ -43,7 +43,7 @@
 
 | | name:    |what I have learned|
 |-|----------|--------|
-|🇬🇧| 🚧 [javascript](https://github.com/gregwell/university-notes/blob/main/english/javascript) *(small projects)* | [1. JavaScript](https://github.com/gregwell/university-notes/blob/main/english/javascript/javascript.md) (syntax and operators, handling asynchronous tasks). [2. React](https://github.com/gregwell/university-notes/blob/main/english/javascript/react.md) (Redux, React Router, react-sweet-state, DOM/ReactDOM, Hooks). [3. Speeding-up SPA](https://github.com/gregwell/university-notes/blob/main/english/javascript/speeding-up-spa.md) (Single Page Application performance optimization) |
+|🇬🇧|  [javascript](https://github.com/gregwell/university-notes/blob/main/english/javascript) 🚧 *(small projects)* | [1. JavaScript](https://github.com/gregwell/university-notes/blob/main/english/javascript/javascript.md) (syntax and operators, handling asynchronous tasks). [2. React](https://github.com/gregwell/university-notes/blob/main/english/javascript/react.md) (Redux, React Router, react-sweet-state, DOM/ReactDOM, Hooks). [3. Speeding-up SPA](https://github.com/gregwell/university-notes/blob/main/english/javascript/speeding-up-spa.md) (Single Page Application performance optimization) |
 
 - **Detailed project analysis**
 
@@ -56,9 +56,9 @@
 
 | | name:    | language:                                | what I have learned|
 |-|----------|--------------------------------------|--------|
-|🇬🇧|  📌 **[currency-converter](https://github.com/gregwell/currency-converter)**        | JavaScript | React app development in practice - component-based user interface, fetching data from Web API, tests 
-|🇬🇧| 🚧 [ts-playground](https://github.com/gregwell/ts-playground) *(small projects)*        | TypeScript | ts-node for running TypeScript with Node.js, classes in TypeScript
-|🇬🇧|  📌🚧😎 **[star-wars-characters](https://github.com/gregwell/star-wars-characters)**        | TypeScript | React with TypeScript: using axios for fetching, infinite scroll, responsive layout
+|🇬🇧|   **[currency-converter](https://github.com/gregwell/currency-converter)**  📌      | JavaScript | React app development in practice - component-based user interface, fetching data from Web API, tests 
+|🇬🇧|  [ts-playground](https://github.com/gregwell/ts-playground) 🚧 *(small projects)*        | TypeScript | ts-node for running TypeScript with Node.js, classes in TypeScript
+|🇬🇧|  **[star-wars-characters](https://github.com/gregwell/star-wars-characters)** 📌🚧😎       | TypeScript | React with TypeScript: using axios for fetching, infinite scroll, responsive layout
 
 ## Other projects:
 
