@@ -1,9 +1,8 @@
-# The Complete List Of My Projects
+# The complete list of my projects
 
-- This is what I have been learning over the last few years 
-- Included only projects that have at least decent notes or any code
-- Updating this table let me keep track of my progress 
-- Project descriptions in Polish will be translated to English shortly
+- ✅ Included only projects that have at least decent notes or any code
+- 📈 Updating this table let me keep track of my progress 
+- 🕜 Project descriptions in Polish will be translated to English shortly
 
 ## University
 
