@@ -43,7 +43,7 @@
 
 | | name:    |what I have learned|
 |-|----------|--------|
-|🇬🇧| 👋 [javascript](https://github.com/gregwell/university-notes/blob/main/english/javascript) | [1. JavaScript](https://github.com/gregwell/university-notes/blob/main/english/javascript/javascript.md) (syntax and operators, handling asynchronous tasks). [2. React](https://github.com/gregwell/university-notes/blob/main/english/javascript/react.md) (Redux, React Router, react-sweet-state, DOM/ReactDOM, Hooks). [3. Speeding-up SPA](https://github.com/gregwell/university-notes/blob/main/english/javascript/speeding-up-spa.md) (Single Page Application performance optimization) |
+|🇬🇧| 👋 [javascript](https://github.com/gregwell/university-notes/blob/main/english/javascript) *(small projects)* | [1. JavaScript](https://github.com/gregwell/university-notes/blob/main/english/javascript/javascript.md) (syntax and operators, handling asynchronous tasks). [2. React](https://github.com/gregwell/university-notes/blob/main/english/javascript/react.md) (Redux, React Router, react-sweet-state, DOM/ReactDOM, Hooks). [3. Speeding-up SPA](https://github.com/gregwell/university-notes/blob/main/english/javascript/speeding-up-spa.md) (Single Page Application performance optimization) |
 
 - **Detailed project analysis**
 
