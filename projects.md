@@ -69,4 +69,3 @@
 **Emoji:**
 - 📌 - important project
 - 🚧 - in development
-- 😎 - I'm currently focusing on the most
