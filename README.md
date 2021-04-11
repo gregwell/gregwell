@@ -47,6 +47,5 @@ Complete list of my projects: 📝[gregwell/projects.md](https://github.com/greg
 
 - 📌 - important project
 - 🚧 - in development
-- 😎 - I'm currently focusing on the most
 
 Read my story: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn *About* section](https://www.linkedin.com/in/grzegorzstudzinski/)
