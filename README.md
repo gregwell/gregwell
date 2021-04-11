@@ -17,7 +17,7 @@ Complete list of my projects: 📝[gregwell/projects.md](https://github.com/greg
 |13.01.21|  **[activity-hub-rest-api](https://github.com/gregwell/activity-hub-rest-api)**  📌                       |JavaScript| JavaScript syntax, REST API concepct, HTTP methods, JWT tokens authorization/authentication, sending requests via postman, MongoDB Atlas 
 
 
-- I'm just getting started with some new university projects including neural networks and containerization using Docker 🚧😎
+- I'm just getting started with some new university projects including neural networks and containerization using Docker 🚧
 
 ### Latest personal development projects:
 
