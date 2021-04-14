@@ -50,7 +50,7 @@
 | | name: | language:    |what I have learned|
 |-|-|----------|--------|
 |🇬🇧| [the-facebook](https://github.com/gregwell/the-facebook)                | JavaScript | the practical approach to developing a project with the use of: JavaScript, React, Redux, React Router, HTML, CSS, Material-ui, Node.js, MongoDB, Express, JWT auth |
-|🇬🇧| [react-sweet-state-todo-app](https://github.com/gregwell/react-sweet-state-todo-app)         | JavaScript | Understood better React state management | 
+|🇬🇧| [react-sweet-state-todo-app](https://github.com/gregwell/react-sweet-state-todo-app) 🚧         | JavaScript | Understood better React state management, a bit of UI design | 
 
 - **Programming**
 
