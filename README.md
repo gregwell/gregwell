@@ -9,15 +9,15 @@ Complete list of my projects: 📝[gregwell/projects.md](https://github.com/greg
 - 📌 - important project
 - 🚧 - in development
 
-### Latest university projects:
+## Latest university projects:
 
-- **Notes**
+### Notes
 
 |created: | name:    |what I have learned|
 |-|----------|--------|
 |17.04.21|  [devops](https://github.com/gregwell/university-notes/blob/main/english/devops/devops.md) 🚧  | Git, Docker, Jenkins - in progress |
 
-- **Programming**
+### Programming
 
 |created: | name:    | language| what I have learned|
 |-|----------|------|--------|
@@ -30,22 +30,22 @@ Complete list of my projects: 📝[gregwell/projects.md](https://github.com/greg
 
 - I'm just getting started with some new university projects 🚧
 
-### Latest personal development projects:
+## Latest personal development projects:
 
-- **Notes**
+### Notes
 
 |created: | name:    |what I have learned|
 |-|----------|--------|
 |08.02.21 - 19.03.21|  [javascript](https://github.com/gregwell/university-notes/blob/main/english/javascript)  *(small projects)* 🚧 | [1. JavaScript](https://github.com/gregwell/university-notes/blob/main/english/javascript/javascript.md) (syntax and operators, handling asynchronous tasks). [2. React](https://github.com/gregwell/university-notes/blob/main/english/javascript/react.md) (Redux, React Router, react-sweet-state, DOM/ReactDOM, Hooks). [3. Speeding-up SPA](https://github.com/gregwell/university-notes/blob/main/english/javascript/speeding-up-spa.md) (Single Page Application performance optimization) |
 
-- **Detailed project analysis**
+### Detailed project analysis
 
 |created: | name: | language:    |what I have learned|
 |-|-|----------|--------|
 |16.01.21| [the-facebook](https://github.com/gregwell/the-facebook)                | JavaScript | the practical approach to developing a project with the use of: JavaScript, React, Redux, React Router, HTML, CSS, Material-ui, Node.js, MongoDB, Express, JWT auth |
 |23.02.21| [react-sweet-state-todo-app](https://github.com/gregwell/react-sweet-state-todo-app) 🚧        | JavaScript | Understood better React state management, a bit of UI design | 
 
-- **Programming**
+### Programming
 
 |created: | name:    | language:                                | what I have learned|
 |-|----------|--------------------------------------|--------|
