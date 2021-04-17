@@ -2,7 +2,13 @@
 
 I'm making my best effort to start thinking in JavaScript. Looking for a challenging summer internship!
 
-Complete list of my projects: 📝[gregwell/projects.md](https://github.com/gregwell/gregwell/blob/main/projects.md)
+**Links:**
+
+- 📝[Complete list of my projects](projects.md) - check out all my projects over the last few years
+
+- ⏱️ [Month in review](month-in-review.md) - see what I've been working on each month of 2021
+
+
 
 **Emoji:**
 
