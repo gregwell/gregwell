@@ -6,6 +6,12 @@ Complete list of my projects: 📝[gregwell/projects.md](https://github.com/greg
 
 ### Latest university projects:
 
+- **Notes**
+
+|created: | name:    |what I have learned|
+|-|----------|--------|
+|17.04.21|  [devops](https://github.com/gregwell/university-notes/blob/main/english/devops/devops.md) 🚧  | Git, Docker, Jenkins - in progress |
+
 - **Programming**
 
 |created: | name:    | language| what I have learned|
