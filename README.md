@@ -7,11 +7,6 @@ I'm making my best effort to start thinking in JavaScript. Looking for a challen
 - 📝[Complete list of my projects](projects.md)
 - ⏱️ [Month in review (2021)](month-in-review.md)
 
-**Emoji:**
-
-- 📌 - important project
-- 🚧 - in development
-
 ## Latest university projects:
 
 ### Notes
@@ -55,5 +50,10 @@ I'm making my best effort to start thinking in JavaScript. Looking for a challen
 |07.03.21|   [currency-converter](https://github.com/gregwell/currency-converter)        | JavaScript | React app development in practice - component-based user interface, fetching data from Web API, tests 
 |21.03.21 - 10.04.21|   **[ts-playground](https://github.com/gregwell/ts-playground)** *(small projects)*  📌      | TypeScript | TypeScript classes and interfaces, ts-node debugging, tests
 |02.04.21|   **[star-wars-characters](https://github.com/gregwell/star-wars-characters)**  📌🚧      | TypeScript | React with TypeScript: using axios for fetching, infinite scroll, responsive layout
+
+**Emoji:**
+
+- 📌 - important project
+- 🚧 - in development
 
 Read my story: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn *About* section](https://www.linkedin.com/in/grzegorzstudzinski/)
