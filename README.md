@@ -5,7 +5,7 @@ I'm making my best effort to start thinking in JavaScript. Looking for a challen
 **Links:**
 
 - 📝[Complete list of my projects](projects.md)
-- ⏱️ [Month in review](month-in-review.md)
+- ⏱️ [Month in review (2021)](month-in-review.md)
 
 **Emoji:**
 
