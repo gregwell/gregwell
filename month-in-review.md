@@ -34,5 +34,6 @@
 ## May
 
 - 💡 TS/React - further skills development
-- 💡 *boil* - university projects
-- 💡 *neural networks -* university project
+- 💡 *boil* - university projects (1st: 10.05)
+- 💡 *neural networks -* university project (1st 7.05)
+- 💡 *RTOS -* university projects (no deadline)
