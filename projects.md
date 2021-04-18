@@ -18,6 +18,7 @@
 |🇵🇱| [material-engineering-fundamentals](https://github.com/gregwell/university-notes/tree/main/polish/old-school-style-notes/podstawy-inzynierii-materialowej) | układ żelazo-cementyt, stale stopowe, metale nieżelazne, własności mechaniczne, defekty sieci, przemiany przy nagrzewaniu i chłodzeniu, fazy
 |🇬🇧| [heat-and-mass-transfer](https://github.com/gregwell/university-notes/tree/main/english/old-school-style-notes/heat-and-mass-transfer) | heat, specific heat, heat flux, energy balance for different systems, conduction, convection, radiation, heat equation, initial condition, boundary conditions, dimensionless numbers, heat exchangers
 |🇬🇧| [computer-networks](https://github.com/gregwell/university-notes/tree/main/english/old-school-style-notes/computer-networks) | 5 layer TCP/IP model, networking devices, frames and datagrams, DHCP, IP protocol, IP addresses classes, subnetting and subnets masks, routing, TCP control flags, firewalls, DNS, TTL, domain names, NAT, VPN, proxy, wireless communication
+|GB|  [devops](https://github.com/gregwell/university-notes/blob/main/english/devops/devops.md) 🚧  | Git, Docker, Jenkins - in progress |
 
 - **Programming**
 
@@ -33,7 +34,6 @@
 |🇬🇧| [java-algorithms](https://github.com/gregwell/java-algorithms)                     |Java| Abstract classes, interfaces, improved OOP skills in general, learned how to write exceptions, JUnit tests, strategy pattern    
 |🇬🇧|  **[car-showroom-management](https://github.com/gregwell/car-showroom-management)** 📌             |Java| JavaFX framework, MVC design pattern, some css, improved OOP skills                      |
 |🇬🇧|  **[activity-hub-rest-api](https://github.com/gregwell/activity-hub-rest-api)** 📌                        |JavaScript| JavaScript syntax, REST API concepct, HTTP methods, JWT tokens authorization/authentication, sending requests via postman, MongoDB Atlas 
-|GB|  [devops](https://github.com/gregwell/university-notes/blob/main/english/devops/devops.md) 🚧  | Git, Docker, Jenkins - in progress |
 
 ## Personal development 
 
