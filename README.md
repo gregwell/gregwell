@@ -1,6 +1,6 @@
 # Hi, I'm Grzegorz Studzinski 👋
 
-I'm making my best effort to start thinking in JavaScript! 
+I'm making my best effort to start thinking in JavaScript! (from mid-January)
 
 **I break most things down into *projects.*** Each one has some goals and I strive to achieve them. 🎯
 
@@ -26,7 +26,7 @@ I'm making my best effort to start thinking in JavaScript!
 |13.01.21|  **[activity-hub-rest-api](https://github.com/gregwell/activity-hub-rest-api)**  📌                       |JavaScript| JavaScript syntax, REST API concepct, HTTP methods, JWT tokens authorization/authentication, sending requests via postman, MongoDB Atlas 
 
 
-- I'm just getting started with some new university projects 🚧
+- I'm just getting started with some new university projects. 🚧 (keep in mind that not everything I do is trackable)
 
 ## Latest personal development projects:
 
