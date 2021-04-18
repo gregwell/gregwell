@@ -1,8 +1,10 @@
 # Hi, I'm Grzegorz Studzinski 👋
 
-I'm making my best effort to start thinking in JavaScript. Looking for a challenging summer internship!
+I'm making my best effort to start thinking in JavaScript! 
 
-- 📝[Complete list of my projects](projects.md)
+**I break most things down into *projects.*** Each one has some goals and I strive to achieve them. 🎯
+
+- 📝 [Complete list of my projects](projects.md)
 - ⏱️ [Month in review (2021)](month-in-review.md)
 
 ## Latest university projects:
