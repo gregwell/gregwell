@@ -21,14 +21,14 @@
 - [speeding-up-spa](https://github.com/gregwell/university-notes/blob/main/english/javascript/speeding-up-spa.md) - notes on how to optimize applications written in React
 - [cluster-detector](https://github.com/gregwell/ts-playground/tree/main/cluster-detector) - my very first time in TypeScript
 - engineering thesis topic selection
-- CAD (university) - basic operations, engine design
+- CAD - engine design
 
 ## April
 
 - [star-wars-characters](https://github.com/gregwell/star-wars-characters) - further develop React skills: axios, infinite scroll
 - [binary-tree](https://github.com/gregwell/ts-playground/tree/main/binary-tree) - a recall of data structures, but mainly the aim is to write classes and interfaces and appropriate tests for the task
 - 🚧 [devops](https://github.com/gregwell/university-notes/blob/main/english/devops/devops.md) - time to understand what the docker is all about
-- 🚧 CAD - university projects
+- 💡 CAD - new project
 - 💡 finally make a good-looking UI (+ transitions, animations)
 
 ## May
