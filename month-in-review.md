@@ -21,7 +21,7 @@
 - [speeding-up-spa](https://github.com/gregwell/university-notes/blob/main/english/javascript/speeding-up-spa.md) - notes on how to optimize applications written in React
 - [cluster-detector](https://github.com/gregwell/ts-playground/tree/main/cluster-detector) - my very first time in TypeScript
 - engineering thesis topic selection
-- CAD - university projects
+- CAD (university) - basic operations, engine design
 
 ## April
 
