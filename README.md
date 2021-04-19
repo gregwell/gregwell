@@ -2,10 +2,12 @@
 
 I'm making my best effort to start thinking in JavaScript! (from mid-January)
 
-**I break most things down into *projects.*** Each one has some goals and I strive to achieve them. 🎯
+**I break most things down into *projects.*** Each one has some goals and I strive to achieve them. 🎯 
 
 - 📝 [Complete list of my projects](projects.md)
 - ⏱️ [Month in review (2021)](month-in-review.md)
+
+In such a way I can perfectly **organise my work** 🔨, **manage my time** ⌛ (I do other things too 🎨🚴) and **keep track of my growth**. 🌱 Each project has its own time measurement so that I know what is taking up too much of my time or what I haven't spent enough time on. 
 
 ## Latest university projects:
 
