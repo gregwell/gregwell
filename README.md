@@ -7,7 +7,7 @@ I'm making my best effort to start thinking in JavaScript! (from mid-January)
 - 📝 [Complete list of my projects](projects.md)
 - ⏱️ [Month in review (2021)](month-in-review.md)
 
-In such a way I can perfectly organise my work , manage my time  (I do other things too! 🎨🚴) and keep track of my growth. I also track the time spent on each project.
+In such a way I can perfectly organise my work , manage my time  (I do other things too! 🎨🚴) and keep track of my growth. 
 
 ## Latest university projects:
 
