@@ -28,7 +28,7 @@ In such a way I can perfectly organise my work , manage my time  (I do other thi
 |13.01.21|  **[activity-hub-rest-api](https://github.com/gregwell/activity-hub-rest-api)**  📌                       |JavaScript| JavaScript syntax, REST API concepct, HTTP methods, JWT tokens authorization/authentication, sending requests via postman, MongoDB Atlas 
 
 
-- I'm just getting started with some new university projects. 🚧 (keep in mind that not everything I do is trackable)
+- I'm just getting started with some new university projects. 🚧
 
 ## Latest personal development projects:
 
