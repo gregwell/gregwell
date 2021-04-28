@@ -27,13 +27,12 @@
 
 - [star-wars-characters](https://github.com/gregwell/star-wars-characters) - further develop React skills: axios, infinite scroll
 - [binary-tree](https://github.com/gregwell/ts-playground/tree/main/binary-tree) - a recall of data structures, but mainly the aim is to write classes and interfaces and appropriate tests for the task
-- 🚧 [devops](https://github.com/gregwell/university-notes/blob/main/english/devops/devops.md) - time to understand what the docker is all about
-- 💡 CAD - new project
-- 💡 finally make a good-looking UI (+ transitions, animations)
+- CAD - cantilever design
+- 🚧 [devops](https://github.com/gregwell/university-notes/blob/main/english/devops/devops.md) - introduction to docker, the design of ci/cd pipeline, jenkins
 
 ## May
 
-- 💡 further TS/React skills development with an eye to design and responsiveness
+- 💡 further TS/React skills development with an eye to design and responsiveness (finally make a good-looking UI (+ transitions, animations))
 - 💡 *boil* - university projects (1st: 10.05)
 - 💡 *neural networks -* university project (1st 7.05)
 - 💡 *RTOS -* university projects (no deadline)
