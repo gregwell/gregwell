@@ -34,16 +34,22 @@
 
 -  [devops](https://github.com/gregwell/university-notes/blob/main/english/devops/devops.md) - introduction to jenkins, ci/cd pipeline
 - CAD - university projects
-- 🌴 vacations
+- *vacations (from)* 🌴
 
 ## June
 
+- *vacations (to)* 🌴
 - some small university group projects (not tracked)
     - transportation problem, JavaScript (group project, not tracked)
     - linear programming, Java
     - neural networks, minor projects, Python
     - real time operating systems
 
-## July
+## July, August, September
 
-- 💡 work, JavaScript
+- internship, OpenX 💻 
+    - working with a commerical product (development: TypeScript, React, Redux, Material-ui, tests: Cypress)
+
+## October
+
+- 💡 writing the engineering thesis (React) *(planned)*
