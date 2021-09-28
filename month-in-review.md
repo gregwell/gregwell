@@ -72,4 +72,5 @@
 
 ## October
 
+- *time off* 🌴 *(planned)*
 - 💡 writing the engineering thesis (React) *(planned)*
