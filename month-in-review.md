@@ -66,6 +66,9 @@
 - internship, OpenX 💻 (week by week) /TypeScript, React, Redux, Material-ui + Cypress/
     - week 30-2: improving React skills, fixing pr comments 
     - week 6-10: writing Cypress tests to the task
+    - week 13-16: improvements
+    - week 20-23: code refactor
+    - week 26-29: code refactor
 
 ## October
 
