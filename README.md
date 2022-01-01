@@ -1,6 +1,6 @@
 # Hi, I'm Grzegorz 👋
 
-UPDATE: Ops! This page is out of date. I'm working on project that has to be private right now. For more info contact me directly via LinkedIn or Email
+UPDATE: Ops! This page is out of date. I'm working on a project that has to be private right now. For more info contact me directly via LinkedIn or Email
 
 I'm making my best effort to start thinking in JavaScript! (from mid-January)
 
