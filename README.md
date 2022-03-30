@@ -2,7 +2,7 @@
 
 My most recent project  (100% TypeScript, React) is [Rental system web app](https://github.com/gregwell/rental-system-web-app) 
 
-# The complete list of my projects:
+## The complete list of my projects:
 
 Projects that I've been working on over the last few years
 
