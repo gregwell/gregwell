@@ -66,4 +66,3 @@ Projects that I've been working on over the last few years
 | | name:    | what I have learned:|
 |-|----------|--------|
 |🇵🇱| [math-mature-exam](https://github.com/gregwell/university-notes/tree/main/polish/old-school-style-notes/matematyka-matura) | notes on all high school math material (learning from scratch from September 2017 to April 2018)
-=======
