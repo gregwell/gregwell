@@ -34,6 +34,7 @@
 |🇬🇧| [java-algorithms](https://github.com/gregwell/java-algorithms)                     |Java| Abstract classes, interfaces, improved OOP skills in general, learned how to write exceptions, JUnit tests, strategy pattern    
 |🇬🇧|  **[car-showroom-management](https://github.com/gregwell/car-showroom-management)** 📌             |Java| JavaFX framework, MVC design pattern, some css, improved OOP skills                      |
 |🇬🇧|  **[activity-hub-rest-api](https://github.com/gregwell/activity-hub-rest-api)** 📌                        |JavaScript| JavaScript syntax, REST API concepct, HTTP methods, JWT tokens authorization/authentication, sending requests via postman, MongoDB Atlas 
+|🇵🇱|  **[rental-system-web-app](https://github.com/gregwell/rental-system-web-app)** 📌                        |TypeScript| apply skills in practice, engineering thesis project
 
 ## Personal development 
 
