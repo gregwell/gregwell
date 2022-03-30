@@ -34,16 +34,43 @@
 
 -  [devops](https://github.com/gregwell/university-notes/blob/main/english/devops/devops.md) - introduction to jenkins, ci/cd pipeline
 - CAD - university projects
-- 🌴 vacations
+- *vacations (from)* 🌴
 
 ## June
 
+- *vacations (to)* 🌴
 - some small university group projects (not tracked)
-    - transportation problem, JavaScript (group project, not tracked)
-    - linear programming, Java
-    - neural networks, minor projects, Python
-    - real time operating systems
+    - transportation problem (JavaScript)
+    - linear programming (Java)
+    - neural networks, minor projects (Python)
+    - real time operating systems (C)
 
 ## July
 
-- 💡 work, JavaScript
+- internship, OpenX 💻 (week by week) /TypeScript, React, Redux, Material-ui/
+    - week 5-9: getting to know the structure of the company's organization and repositories
+    - week 12-16: learning about: fetch methods, find fetch functions and using api in the codebase, sending request and config, query config, networks tab in chrome
+    - week 19-23: learning about: autocomplete material-ui component and finding company's implementations, configuring the options in autocomplete, config to send different requests when input is entered, from thursday redux, sending dispatch to the api, config of the object that is to be sent to the api,
+    - week 26-29: learning about: React states and redux, creating internal states, formatting data, deleting states, changing types, converting data from api in different ways
+
+## August
+
+- internship, OpenX 💻 (week by week) /TypeScript, React, Redux, Material-ui + Cypress/
+    - week 1-5: first PR, add unit tests, got a lot of comments, solving problems
+    - week 8-12: PR improvements, moving expressions to separate variables, adding useCallbacks, optimizing code
+    - week 15-19: learning how to write integration tests in Cypress, merging pr to main branch
+    - week 22-27: working on another task, improving React skills, adding new components to the codebase
+
+## September
+
+- internship, OpenX 💻 (week by week) /TypeScript, React, Redux, Material-ui + Cypress/
+    - week 30-2: improving React skills, fixing pr comments 
+    - week 6-10: writing Cypress tests to the task
+    - week 13-16: improvements
+    - week 20-23: code refactor
+    - week 26-29: code refactor
+
+## October
+
+- *time off* 🌴 *(planned)*
+- 💡 writing the engineering thesis (React) *(planned)*
