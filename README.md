@@ -21,7 +21,7 @@ My most recent project is [rental-system-web-app](https://github.com/gregwell/re
 |🇬🇧|   [currency-converter](https://github.com/gregwell/currency-converter)        | JavaScript | React app development in practice - component-based user interface, fetching data from Web API, tests 
 |🇬🇧|  **[ts-playground](https://github.com/gregwell/ts-playground)** 📌 *(small projects)*        | TypeScript | TypeScript classes and interfaces, ts-node debugging
 |🇬🇧|  **[star-wars-characters](https://github.com/gregwell/star-wars-characters)** 📌       | TypeScript | React with TypeScript: using axios for fetching, infinite scroll, responsive layout
-|🇵🇱|  **[rental-system-web-app](https://github.com/gregwell/rental-system-web-app)** 📌                        |TypeScript| apply skills in practice, engineering thesis project
+|🇬🇧|  **[rental-system-web-app](https://github.com/gregwell/rental-system-web-app)** 📌                        |TypeScript| apply skills in practice, engineering thesis project
 
 - **Programming - notes only**
 
