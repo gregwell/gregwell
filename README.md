@@ -1,6 +1,6 @@
 # Hi, I'm Grzegorz 👋
 
-My most recent project is [rental-system-web-app](https://github.com/gregwell/rental-system-web-app). (TypeScript, React).
+My most recent project is [rental-system-web-app](https://github.com/gregwell/rental-system-web-app). (TypeScript, React)
 
 ## The complete list of my projects:
 
