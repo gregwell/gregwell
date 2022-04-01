@@ -1,26 +1,8 @@
 # Hi, I'm Grzegorz 👋
 
-My most recent project  (100% TypeScript, React) is [Rental system web app](https://github.com/gregwell/rental-system-web-app) 
+My most recent project is [rental-system-web-app](https://github.com/gregwell/rental-system-web-app). (TypeScript, React).
 
 ## The complete list of my projects:
-
-Projects that I've been working on over the last few years
-
-## University
-
-- **Math, physics & engineering notes**
-
-| | name:    | what I have learned:|
-|-|----------|--------|
-|🇵🇱| [mathematical-analysis](https://github.com/gregwell/university-notes/tree/main/polish/old-school-style-notes/analiza-matematyczna) | granice, pochodne, całki niezonaczone, szeregi, szereg Taylora, całki oznaczone, funkcje wielu zmiennych, całki podwójne, potrójne,parametryzacja powierzchni, całki powierzchniowe skierowane,nieskierowane
-|🇵🇱| [algebra](https://github.com/gregwell/university-notes/tree/main/polish/old-school-style-notes/algebra) | macierze, liczby zespolone, przestrzenie liniowe, przekształcenia liniowe
-|🇵🇱| [differential-equations](https://github.com/gregwell/university-notes/tree/main/polish/old-school-style-notes/rownania-rozniczkowe) | równania różniczkowe zwyczajne: RR. o zmienych rozdzielonych, RR. liniowe I rzędu, RR liniowe II rzędu, metoda uzmienniania stałych, metoda przewidywania
-|🇵🇱| [physics](https://github.com/gregwell/university-notes/tree/main/polish/old-school-style-notes/fizyka) | kinematyka, dynamika, ruch po okręgu, drgania/fale, termodynamika, elektrostatyka, magnetyzm, optyka geometryczna, optyka falowa, podstawy optyki współczesnej
-|🇵🇱| [computer-science-fundamenals](https://github.com/gregwell/university-notes/tree/main/polish/old-school-style-notes/podstawy-informatyki) | schematy blokowe, grafy, podstawy logiki
-|🇵🇱| [material-engineering-fundamentals](https://github.com/gregwell/university-notes/tree/main/polish/old-school-style-notes/podstawy-inzynierii-materialowej) | układ żelazo-cementyt, stale stopowe, metale nieżelazne, własności mechaniczne, defekty sieci, przemiany przy nagrzewaniu i chłodzeniu, fazy
-|🇬🇧| [heat-and-mass-transfer](https://github.com/gregwell/university-notes/tree/main/english/old-school-style-notes/heat-and-mass-transfer) | heat, specific heat, heat flux, energy balance for different systems, conduction, convection, radiation, heat equation, initial condition, boundary conditions, dimensionless numbers, heat exchangers
-|🇬🇧| [computer-networks](https://github.com/gregwell/university-notes/tree/main/english/old-school-style-notes/computer-networks) | 5 layer TCP/IP model, networking devices, frames and datagrams, DHCP, IP protocol, IP addresses classes, subnetting and subnets masks, routing, TCP control flags, firewalls, DNS, TTL, domain names, NAT, VPN, proxy, wireless communication
-|🇬🇧|  [devops](https://github.com/gregwell/university-notes/blob/main/english/devops/devops.md) 🚧  | Git, Docker, Jenkins - in progress |
 
 - **Programming**
 
@@ -36,33 +18,36 @@ Projects that I've been working on over the last few years
 |🇬🇧| [java-algorithms](https://github.com/gregwell/java-algorithms)                     |Java| Abstract classes, interfaces, improved OOP skills in general, learned how to write exceptions, JUnit tests, strategy pattern    
 |🇬🇧|  **[car-showroom-management](https://github.com/gregwell/car-showroom-management)** 📌             |Java| JavaFX framework, MVC design pattern, some css, improved OOP skills                      |
 |🇬🇧|  **[activity-hub-rest-api](https://github.com/gregwell/activity-hub-rest-api)** 📌                        |JavaScript| JavaScript syntax, REST API concepct, HTTP methods, JWT tokens authorization/authentication, sending requests via postman, MongoDB Atlas 
+|🇬🇧|   [currency-converter](https://github.com/gregwell/currency-converter)        | JavaScript | React app development in practice - component-based user interface, fetching data from Web API, tests 
+|🇬🇧|  **[ts-playground](https://github.com/gregwell/ts-playground)** 📌 *(small projects)*        | TypeScript | TypeScript classes and interfaces, ts-node debugging
+|🇬🇧|  **[star-wars-characters](https://github.com/gregwell/star-wars-characters)** 📌       | TypeScript | React with TypeScript: using axios for fetching, infinite scroll, responsive layout
 |🇵🇱|  **[rental-system-web-app](https://github.com/gregwell/rental-system-web-app)** 📌                        |TypeScript| apply skills in practice, engineering thesis project
 
-## Personal development 
-
-- **Notes**
+- **Programming - notes only**
 
 | | name:    |what I have learned|
 |-|----------|--------|
 |🇬🇧|  [javascript](https://github.com/gregwell/university-notes/blob/main/english/javascript) 🚧 *(small projects)* | [1. JavaScript](https://github.com/gregwell/university-notes/blob/main/english/javascript/javascript.md) (syntax and operators, handling asynchronous tasks). [2. React](https://github.com/gregwell/university-notes/blob/main/english/javascript/react.md) (Redux, React Router, react-sweet-state, DOM/ReactDOM, Hooks). [3. Speeding-up SPA](https://github.com/gregwell/university-notes/blob/main/english/javascript/speeding-up-spa.md) (Single Page Application performance optimization) |
 
-- **Detailed project analysis**
+- **Programming - notes only, based on other apps**
 
 | | name: | language:    |what I have learned|
 |-|-|----------|--------|
 |🇬🇧| [the-facebook](https://github.com/gregwell/the-facebook)                | JavaScript | the practical approach to developing a project with the use of: JavaScript, React, Redux, React Router, HTML, CSS, Material-ui, Node.js, MongoDB, Express, JWT auth |
 |🇬🇧| [react-sweet-state-todo-app](https://github.com/gregwell/react-sweet-state-todo-app) 🚧         | JavaScript | Understood better React state management, a bit of UI design | 
 
-- **Programming**
 
-| | name:    | language:                                | what I have learned|
-|-|----------|--------------------------------------|--------|
-|🇬🇧|   [currency-converter](https://github.com/gregwell/currency-converter)        | JavaScript | React app development in practice - component-based user interface, fetching data from Web API, tests 
-|🇬🇧|  **[ts-playground](https://github.com/gregwell/ts-playground)** 📌 *(small projects)*        | TypeScript | TypeScript classes and interfaces, ts-node debugging
-|🇬🇧|  **[star-wars-characters](https://github.com/gregwell/star-wars-characters)** 📌🚧       | TypeScript | React with TypeScript: using axios for fetching, infinite scroll, responsive layout
-
-## Other projects:
+- **Math, physics & engineering notes**
 
 | | name:    | what I have learned:|
 |-|----------|--------|
 |🇵🇱| [math-mature-exam](https://github.com/gregwell/university-notes/tree/main/polish/old-school-style-notes/matematyka-matura) | notes on all high school math material (learning from scratch from September 2017 to April 2018)
+|🇵🇱| [mathematical-analysis](https://github.com/gregwell/university-notes/tree/main/polish/old-school-style-notes/analiza-matematyczna) | granice, pochodne, całki niezonaczone, szeregi, szereg Taylora, całki oznaczone, funkcje wielu zmiennych, całki podwójne, potrójne,parametryzacja powierzchni, całki powierzchniowe skierowane,nieskierowane
+|🇵🇱| [algebra](https://github.com/gregwell/university-notes/tree/main/polish/old-school-style-notes/algebra) | macierze, liczby zespolone, przestrzenie liniowe, przekształcenia liniowe
+|🇵🇱| [differential-equations](https://github.com/gregwell/university-notes/tree/main/polish/old-school-style-notes/rownania-rozniczkowe) | równania różniczkowe zwyczajne: RR. o zmienych rozdzielonych, RR. liniowe I rzędu, RR liniowe II rzędu, metoda uzmienniania stałych, metoda przewidywania
+|🇵🇱| [physics](https://github.com/gregwell/university-notes/tree/main/polish/old-school-style-notes/fizyka) | kinematyka, dynamika, ruch po okręgu, drgania/fale, termodynamika, elektrostatyka, magnetyzm, optyka geometryczna, optyka falowa, podstawy optyki współczesnej
+|🇵🇱| [computer-science-fundamenals](https://github.com/gregwell/university-notes/tree/main/polish/old-school-style-notes/podstawy-informatyki) | schematy blokowe, grafy, podstawy logiki
+|🇵🇱| [material-engineering-fundamentals](https://github.com/gregwell/university-notes/tree/main/polish/old-school-style-notes/podstawy-inzynierii-materialowej) | układ żelazo-cementyt, stale stopowe, metale nieżelazne, własności mechaniczne, defekty sieci, przemiany przy nagrzewaniu i chłodzeniu, fazy
+|🇬🇧| [heat-and-mass-transfer](https://github.com/gregwell/university-notes/tree/main/english/old-school-style-notes/heat-and-mass-transfer) | heat, specific heat, heat flux, energy balance for different systems, conduction, convection, radiation, heat equation, initial condition, boundary conditions, dimensionless numbers, heat exchangers
+|🇬🇧| [computer-networks](https://github.com/gregwell/university-notes/tree/main/english/old-school-style-notes/computer-networks) | 5 layer TCP/IP model, networking devices, frames and datagrams, DHCP, IP protocol, IP addresses classes, subnetting and subnets masks, routing, TCP control flags, firewalls, DNS, TTL, domain names, NAT, VPN, proxy, wireless communication
+|🇬🇧|  [devops](https://github.com/gregwell/university-notes/blob/main/english/devops/devops.md)  | Git, Docker, Jenkins |
