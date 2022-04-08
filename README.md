@@ -16,13 +16,13 @@ My most recent project is [rental-system-web-app](https://github.com/gregwell/re
 |🇵🇱| [parallel-programming](https://github.com/gregwell/university-notes/tree/main/polish/parallel-programming) |Java, C| Concurrent/parallel/distributed processing, threads/processes, race condition/data race, mutual exclusion, Pthreads library, SPMD/MPMD, decomposition techniques, readers–writers problem, OpenMP, MPI (OpenMPI)                           |
 |🇬🇧|  **[fem-simulations](https://github.com/gregwell/fem-simulations)**  📌                   |C++| finite element method analysis, learned to work more efficiently with arrays
 |🇬🇧| [java-algorithms](https://github.com/gregwell/java-algorithms)                     |Java| Abstract classes, interfaces, improved OOP skills in general, learned how to write exceptions, JUnit tests, strategy pattern    
-|🇬🇧|  **[car-showroom-management](https://github.com/gregwell/car-showroom-management)**             |Java| JavaFX framework, MVC design pattern, some css, improved OOP skills                      |
-|🇬🇧|  **[activity-hub-rest-api](https://github.com/gregwell/activity-hub-rest-api)**                        |JavaScript| JavaScript syntax, REST API concepct, HTTP methods, JWT tokens authorization/authentication, sending requests via postman, MongoDB Atlas 
+|🇬🇧|  [car-showroom-management](https://github.com/gregwell/car-showroom-management)             |Java| JavaFX framework, MVC design pattern, some css, improved OOP skills                      |
+|🇬🇧|  [activity-hub-rest-api](https://github.com/gregwell/activity-hub-rest-api)                       |JavaScript| JavaScript syntax, REST API concepct, HTTP methods, JWT tokens authorization/authentication, sending requests via postman, MongoDB Atlas 
 |🇬🇧|   [currency-converter](https://github.com/gregwell/currency-converter)        | JavaScript | React app development in practice - component-based user interface, fetching data from Web API, tests 
-|🇬🇧|  **[ts-playground](https://github.com/gregwell/ts-playground)** *(small projects)*        | TypeScript | TypeScript classes and interfaces, ts-node debugging
-|🇬🇧|  **[star-wars-characters](https://github.com/gregwell/star-wars-characters)**       | TypeScript | React with TypeScript: using axios for fetching, infinite scroll, responsive layout
+|🇬🇧|  [ts-playground](https://github.com/gregwell/ts-playground)** *(small projects)*        | TypeScript | TypeScript classes and interfaces, ts-node debugging
+|🇬🇧|  [star-wars-characters](https://github.com/gregwell/star-wars-characters)       | TypeScript | React with TypeScript: using axios for fetching, infinite scroll, responsive layout
 |🇬🇧|  **[rental-system-web-app](https://github.com/gregwell/rental-system-web-app)** 📌                        |TypeScript| apply skills in practice, engineering thesis project
-|🇬🇧|  **[pokemon-catalog](https://github.com/gregwell/pokemon-catalog)**                        |TypeScript| -
+|🇬🇧|  [pokemon-catalog](https://github.com/gregwell/pokemon-catalog)**                        |TypeScript| -
 
 - **Programming - notes only**
 
