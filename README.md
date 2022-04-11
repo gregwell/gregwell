@@ -1,7 +1,7 @@
 # Hi, I'm Grzegorz 👋
 
 Update - Dear Recruiters - 
-Please contact me via whatsapp (call) or email/linkedin (message). I am currently abroad.
+Please contact me via whatsapp/email/linkedin. I am currently abroad.
 
 My most recent projects are [rental-system-web-app](https://github.com/gregwell/rental-system-web-app) and [pokemon-catalog](https://github.com/gregwell/pokemon-catalog/). (TypeScript/React)
 
