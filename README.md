@@ -29,7 +29,7 @@ My most recent (2022) projects are
 |🇬🇧|  [star-wars-characters](https://github.com/gregwell/star-wars-characters)       | TypeScript | React with TypeScript: using axios for fetching, infinite scroll, responsive layout
 |🇬🇧|  **[rental-system-web-app](https://github.com/gregwell/rental-system-web-app)** 📌                        |TypeScript| apply skills in practice, engineering thesis project
 |🇬🇧|  **[pokemon-catalog](https://github.com/gregwell/pokemon-catalog)**  📌                      |TypeScript| - refresh skills, recruitment task
-|🇬🇧|  [money-system](https://github.com/gregwell/pokemon-catalog)                        |TypeScript| - refresh skills, recruitment task
+|🇬🇧| [money-transfers](https://github.com/gregwell/money-transfers/)                      |TypeScript| - refresh skills, recruitment task
 
 - **Programming - notes only**
 
