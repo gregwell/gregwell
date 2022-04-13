@@ -3,7 +3,7 @@
 Update - Dear Recruiters - 
 Please contact me via whatsapp/email/linkedin. I am currently abroad.
 
-My most recent projects are
+My most recent (2022) projects are
 - [rental-system-web-app](https://github.com/gregwell/rental-system-web-app) - bigger project (TypeScript/React)
 - [pokemon-catalog](https://github.com/gregwell/pokemon-catalog/) - small app (TypeScript/React)
 - [money-system](https://github.com/gregwell/money-system/) - no UI, only interfaces (TypeScript)
