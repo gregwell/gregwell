@@ -3,7 +3,10 @@
 Update - Dear Recruiters - 
 Please contact me via whatsapp/email/linkedin. I am currently abroad.
 
-My most recent projects are [rental-system-web-app](https://github.com/gregwell/rental-system-web-app) and [pokemon-catalog](https://github.com/gregwell/pokemon-catalog/). (TypeScript/React)
+My most recent projects are
+- [rental-system-web-app](https://github.com/gregwell/rental-system-web-app) - bigger project (TypeScript/React)
+- [pokemon-catalog](https://github.com/gregwell/pokemon-catalog/) - small app (TypeScript/React)
+- [money-system](https://github.com/gregwell/money-system/) - no UI, only interfaces (TypeScript)
 
 ## The complete list of my projects:
 
@@ -26,6 +29,7 @@ My most recent projects are [rental-system-web-app](https://github.com/gregwell/
 |🇬🇧|  [star-wars-characters](https://github.com/gregwell/star-wars-characters)       | TypeScript | React with TypeScript: using axios for fetching, infinite scroll, responsive layout
 |🇬🇧|  **[rental-system-web-app](https://github.com/gregwell/rental-system-web-app)** 📌                        |TypeScript| apply skills in practice, engineering thesis project
 |🇬🇧|  **[pokemon-catalog](https://github.com/gregwell/pokemon-catalog)**  📌                      |TypeScript| - refresh skills, recruitment task
+|🇬🇧|  [money-system](https://github.com/gregwell/pokemon-catalog)                        |TypeScript| - refresh skills, recruitment task
 
 - **Programming - notes only**
 
