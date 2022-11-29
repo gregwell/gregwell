@@ -1,10 +1,5 @@
 # Hi, I'm Grzegorz 👋
 
-My most recent (2022) projects are
-- [rental-system-web-app](https://github.com/gregwell/rental-system-web-app) - bigger project (TypeScript/React)
-- [pokemon-catalog](https://github.com/gregwell/pokemon-catalog/) - small app (TypeScript/React)
-- [money-transfers](https://github.com/gregwell/money-transfers/) - no UI, only interfaces (TypeScript)
-
 ## The complete list of my projects:
 
 - **Programming**
