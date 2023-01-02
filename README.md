@@ -1,5 +1,7 @@
 # Hi, I'm Grzegorz 👋
 
+On this page you will find the majority of self-development projects I have done over the past few years
+
 ## The complete list of my projects:
 
 - **Programming**
