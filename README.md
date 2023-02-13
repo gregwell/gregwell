@@ -1,6 +1,6 @@
 # Hi, I'm Grzegorz 👋
 
-This page contains most of the projects I did in 2018-2022:
+This page contains most of the projects I did in 2018-2022 🚀
 
 - **Programming**
 
